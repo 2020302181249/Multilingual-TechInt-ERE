@@ -9,14 +9,6 @@ This repository contains a compact anonymous release for review. It includes sam
 - `build_code_style_data.py`: Converts raw annotation records into code-style training data.
 - `parse_code_output.py`: Parses model outputs such as `result['entities'].append(...)` and `result['relations'].append(...)` into structured JSON.
 
-## Is This Enough for the Paper Link?
-
-Yes. These four files cover the two materials promised in the contribution section:
-
-- Sample data: provided by `raw_sample.json` and `code_style_train_sample.json`.
-- Simple code for the proposed code-style method: provided by `build_code_style_data.py` and `parse_code_output.py`.
-
-This repository is intended for anonymous review and format inspection. The complete dataset and full training/evaluation scripts can be released later if the paper policy allows it.
 
 ## Data Format
 
