@@ -1,0 +1,1589 @@
+[
+  {
+    "doc": "|安森美全新 ADAS电源 I提升 ADAS系统的清晰度及安全性厂商：ON Sn /安森美 直播时间：03-0- 000||安森美全新 ADAS电源 I提升 ADAS系统的清晰度及安全性厂商：ON Sn /安森美直播时间：03-0- 000|与传统的硅器件相比，碳化硅（S）器件由于拥有低导通电阻特性以及出色的高温、高频和高压性能，已经成为下一代低损耗半导体可行的候选器件。此外，S让设计人员能够减少元件的使用，从而进一步降低了设计的复杂程度。罗姆在S功率元器件和模块的开发领域处于先进地位，这些器件和模块在许多行业的应用中都实现了更佳的节能效果。围绕电源、功率转换、切换电路时所需的电源I或功率元器件，罗姆将通过应用手册为您讲 EEWOD社区 电源技术|.3 .MX6U/.MX6U开发板串口如何连接?答：计算机使用US转TT串口转接线与开发板的DEUG串口(JP)连接.不要拿S3电平 D9串口线用杜邦线连接JP,电平不匹配。可以联系米尔购买调试串口线。说明：感谢大家的关注。本文转自米尔公众号专题文章，是由米尔电子工程师基于米尔电子 .MX6U/.MX6U产品对.MX6U/.MX nn AM技术|本人对的PSO一直有高大上不接地气的感觉，不过最近世强代理了这家的产品线，他们的给我们推了款基于PSO的马达控制解决方案，对比之前的STM3方案，逐渐有点改变了我的看法，目前我们有计划改变平台的想法。世强FAE观点认为认为就像当初0抢了MU的高端市场一样，PSO会抢STM3这类AM芯片的高端部分，不知道大家是怎么看的？她给出了几点观点 欧木木 嵌入式系统",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L0",
+        "link2": "L1",
+        "type": "拥有"
+      },
+      {
+        "link1": "L7",
+        "link2": "L8",
+        "type": "采用"
+      },
+      {
+        "link1": "L5",
+        "link2": "L6",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L2",
+        "link2": "L3",
+        "type": "研发"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "罗姆",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L1": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "S功率元器件和模块",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L2": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "ON Sn /安森美",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "ADAS电源",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "米尔",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L5": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "米尔",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L6": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "电子工程师",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L7": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": " .MX6U/.MX6U产品",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L8": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": ".MX6U/.MX nn AM技术",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L10": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "碳化硅（S）器件",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L11": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "S",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "1527",
+    "video_title": "",
+    "lang": "chinese"
+  },
+  {
+    "doc": "|安森美全新 ADAS电源 I提升 ADAS系统的清晰度及安全性厂商：ON Sn /安森美 直播时间：03-0- 000||安森美全新 ADAS电源 I提升 ADAS系统的清晰度及安全性厂商：ON Sn /安森美直播时间：03-0- 000|各位，请问你们工作中常规运放、DA等模拟电路里的电源质量最好能到什么指标。最简单的就常规DD+DO供 ...关键字：|德克萨斯AM大学的科学家们发现无金属的水基电池电极的存储容量有着高达000的差异。无金属的水基电池与那些利用钴的锂离子形式的电池是独 ...|近日，一则落款日期为3月9日的公告显示，位列世界00强企业松下株式会社旗下公司——松下蓄电池（沈阳）有限公司，宣布了将会在03年月3 ...|日本媒体的一项分析显示，在锂离子电池替代品的开发竞赛中，中国正不断提升实力。过去 0年，与后锂离子电池技术相关的各国专利统计显示 ...|电池原型。图片来源：维也纳工业大学锂离子电池储存能量非常高效，这使得大量能量可装入一个相当小的电池中。但锂离子电池会随着时间的推移 ...|电池快速充电指南——第部分摘要虽然更高的电池容量延长了设备的使用时间，但如何缩短充电时间，这给设计人员带来了额外的挑战。快速充电 ...|是德科技面向物联网和智能设备推出电池模拟和分析解决方案•全方位的模拟解决方案，轻松识别影响物联网和智能设备电池消耗的各种变量，从而 ...|M9 双节串联锂电池充放电管理的3W移动电源双向快充I方案引言目前市场上很多两节串联大容量锂电池的产品应用会附带移动电源功能，如 ...|东丽工程成功研制环保型锂电池电极涂布机03年3月6日，东丽工程株式会社（总部：东京中央区；首席执行官兼首席运营官：岩出敬；以下简称 ...|Q® 推出业界首款 0电池组智能电池管理单芯片解决方案中国北京，03年 3月 日 ——全球领先的连接和电源解决方案供 ...|Q® PA 系列提供业界首款 0单元智能电池管理单芯片解决方案美国北卡罗来纳州格林斯巴勒市 – 03年 3月 7日 –全 ...|北京市海淀区中关村大街号座层30室 电话(00)3070 邮编：0090 电子工程世界版权所有 京-079",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L0",
+        "link2": "L1",
+        "type": "研发"
+      },
+      {
+        "link1": "L8",
+        "link2": "L9",
+        "type": "拥有"
+      },
+      {
+        "link1": "L10",
+        "link2": "L11",
+        "type": "研发"
+      },
+      {
+        "link1": "L13",
+        "link2": "L14",
+        "type": "研发"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "ON Sn /安森美",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L1": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": " ADAS电源",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L2": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "德克萨斯AM大学",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "无金属的水基电池电极",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "时间",
+        "link": [
+          {
+            "type": "时间",
+            "start": "",
+            "end": "",
+            "text": "3月9日的",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L6": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "松下蓄电池（沈阳）有限公司",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L7": {
+        "len": 1,
+        "type": "国家",
+        "link": [
+          {
+            "type": "国家",
+            "start": "",
+            "end": "",
+            "text": "中国",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L8": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "维也纳工业大学",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L9": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "锂离子电池储存能量",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L10": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "是德科技",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L11": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "电池模拟和分析解决方案•",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L12": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "M9 双节串联锂电池充放电管理的3W移动电源",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L13": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "东丽工程",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L14": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "环保型锂电池电极涂布机",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L16": {
+        "len": 1,
+        "type": "时间",
+        "link": [
+          {
+            "type": "时间",
+            "start": "",
+            "end": "",
+            "text": "03年3月6日",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L17": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "东丽工程株式会社",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L18": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "东京中央区",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L19": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "岩出敬",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L22": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "0电池组智能电池管理单芯片解决方案",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L23": {
+        "len": 1,
+        "type": "国家",
+        "link": [
+          {
+            "type": "国家",
+            "start": "",
+            "end": "",
+            "text": "中国",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L24": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "北京",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L25": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "0单元智能电池管理单芯片解决方案",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L26": {
+        "len": 1,
+        "type": "国家",
+        "link": [
+          {
+            "type": "国家",
+            "start": "",
+            "end": "",
+            "text": "美国",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L27": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "北卡罗来纳州格林斯巴勒市",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L28": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "电源解决方案",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "1528",
+    "video_title": "",
+    "lang": "chinese"
+  },
+  {
+    "doc": "2023年7月18日 – 专注于推动行业创新的知名新品引入 (NPI) 代理商™贸泽电子 (Mouser Electronics) 发布了三本与设计相关的新电子书，深入开展一系列技术探讨，包括城市空中运输电动交通工具的未来、车队远程信息处理设计，以及下一代系统架构的进展。 今年，贸泽与多家品牌制造商合作伙伴共合作推出了七本电子书，提供设计工程师解决新工程挑战所需的实用指南。下面为您精心挑选了贸泽近期与Texas Instruments、TE Connectivity和Samtec三家制造商合作伙伴联手推出的几本电子书： Addressing New Challenges in Urban Air Mobility，与Texas Instruments合作出版 在《Addressing New Challenges in Urban Air Mobility》（克服城市空中运输的新挑战）中，包括Texas Instruments代表在内的多位业界专家就城市空中运输 (UAM) 电动交通工具的快速发展趋势提出了专业见解。本电子书带您一睹UAM交通工具的前景，概述了该行业面临的新挑战，讨论了如何确保功能安全性，并且强调了电气隔离以及控制UAM复杂性和重量的重要性。 7 Experts on Design Considerations for Fleet Telematics，与TE Connectivity合作出版 《7 Experts on Design Considerations for Fleet Telematics》（7位专家联手献策：车队远程信息处理的设计注意事项）电子书重点介绍了车队远程信息处理固有的设计挑战。来自Lytx、Mobile Valley、Ruptela、TE Connectivity和Teltonika的行业专家深入分析了影响车队远程通信的各种因素，介绍了环境因素、连接、应用设计、能源效率以及物联网 (IoT) 生态系统的重要性。 Samtec Flyover Solutions Break Next-Gen System Architecture Constraints，与Samtec合作出版 在《Samtec Flyover Solutions Break Next-Gen System Architecture Constraints》（Samtec Flyover解决方案突破下一代系统架构的限制）中，来自Samtec的行业专家就技术新突破如何让电子设计取得重大进步提出了丰富见解，他们的观点涵盖高速信号路由、高速信号完整性、双芯电缆技术和光缆系统等主题。",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L1",
+        "link2": "L2",
+        "type": "合作"
+      },
+      {
+        "link1": "L1",
+        "link2": "L3",
+        "type": "合作"
+      },
+      {
+        "link1": "L1",
+        "link2": "L4",
+        "type": "合作"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "时间",
+        "link": [
+          {
+            "type": "时间",
+            "start": "",
+            "end": "",
+            "text": "2023年7月18日",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L1": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "贸泽电子",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L2": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Texas Instruments",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "TE Connectivity",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Samtec",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L5": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "双芯电缆",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "2565",
+    "video_title": "",
+    "lang": "english"
+  },
+  {
+    "doc": "2021年12月29日 – 专注于引入新品推动行业创新的电子元器件分销商贸泽电子 (Mouser Electronics) 致力于持续为工程师提供各种丰富的前沿技术资源。今年，贸泽发布了比以往更多的电子书，并与多家知名制造商合作推出各类实用指南，为设计工程师解决新工程挑战提供所需的信息。  下面为您精心挑选了贸泽与Amphenol Corporation、Bourns以及Maxim Integrated® （现已被Analog Devices收购）合作近期推出的几本电子书： •Enabling the Industrial IoT Revolution，与Amphenol合作出版 在《Enabling the Industrial IoT Revolution》（推动工业物联网革命）这本书中，贸泽和Amphenol的行业专家对多个与工业物联网相关的主题提出了详细见解，包括工业数据中心、暖通空调 (HVAC) 系统、室内空气质量系统以及智能制造、智能自动化、建筑和采矿。 •How to Choose the Right Surge Protection Technology，与Bourns合作出版 电子设计的日益复杂导致了PCB密度不断增加。这些密度更高的电路板布局在雷电和电压浪涌等瞬态中更易受到损坏。Bourns联手贸泽推出的《How to Choose the Right Surge Protection Technology》（如何选择合适的浪涌保护技术）电子书，逐步指导工程师如何为特定应用选择正确的浪涌保护技术。 •7 Experts on LiDAR Design，与Maxim（现已被Analog Devices收购）合作出版 《7 Experts on LiDAR Design》（7位专家联手献策：如何设计LiDAR系统）电子书为设计工程师详细讲解了如何在满足应用性能需求的同时打造更轻、更小的设备。该电子书为设计人员提供了LiDAR创新所需的解决方案，以及MAX40025和MAX40026单路比较器与MAX40027双路比较器等产品信息。",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L1",
+        "link2": "L2",
+        "type": "合作"
+      },
+      {
+        "link1": "L1",
+        "link2": "L3",
+        "type": "合作"
+      },
+      {
+        "link1": "L1",
+        "link2": "L4",
+        "type": "合作"
+      },
+      {
+        "link1": "L4",
+        "link2": "L5",
+        "type": "从属"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "时间",
+        "link": [
+          {
+            "type": "时间",
+            "start": "",
+            "end": "",
+            "text": "2021年12月29日",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L1": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "贸泽电子",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L2": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Amphenol Corporation",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Bourns",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Maxim Integrated®",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L5": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Analog Devices",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L6": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "MAX40025",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L7": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "MAX40026单路比较器",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L8": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "MAX40027双路比较器",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "2593",
+    "video_title": "",
+    "lang": "english"
+  },
+  {
+    "doc": "russia_2 | Автор «Игры престолов» Джордж Мартин и другие авторы бестселлеров подали коллективный иск против OpenAI. Они обвиняют технологический стартап в нарушении их авторских прав для создания генеративного ИИ-чатбота ChatGPT.|Автор «Игры престолов» Джордж Р. Р. Мартин прибыл на автограф-сессию во Францию в 2014 г., где его ждали более тысячи поклонников. AFPПисатели обвиняют ИИ в «воровстве».Автор «Игры престолов» Джордж Мартин и другие писатели авторы бестселлеров подали коллективный иск против OpenAI. Они|технологический стартап в нарушении их авторских прав для создания генеративного ИИ-чатбота ChatGPT.РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ Гильдия авторов, представляющая интересы писателей, и несколько романистов, включая Мартина, Джона Гришема и Джоди Пикоулт, обвинили компанию OpenAI в том, что она «без разрешения» использовала их книги для обучения «больших языковых моделей» в том числе ChatGPT, способных создавать текстовые ответы на основе простых запросов, говорится в иске.«И в основе этих алгоритмов лежит систематическое воровство в огромных масштабах», — говорится в иске, поданном во вторник в федеральный суд Нью-Йорка.Художники, организации и программисты уже подали множество других исков против OpenAI и ее конкурентов, утверждая, что их работы были украдены.|Unsplash.com РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ Истцы пишут, что языковые модели «ставят под угрозу возможность писателей-фантастов зарабатывать на жизнь, поскольку эти модели позволяют любому человеку автоматически и бесплатно (или очень дешево) генерировать тексты, за создание которых в противном случае пришлось бы платить писателям», — говорится в иске, поданном 19 сентября.ChatGPT может быть использован для создания «производных произведений», имитирующих стиль писателей, утверждают писатели.«Без защищенных авторским правом произведений истцов, на которых можно ;обучать; языковые модели, у ответчиков не было бы коммерческого продукта. С его помощью можно нанести ущерб — или даже узурпировать — произведения этих профессиональных авторов», — говорится в жалобе. — «Таким образом, копирование произведений писателей делает их источником саморазрушения».РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ Гильдия авторов добивается запрета на использование книг, защищенных авторским правом, для разработки языковых моделей «без прямого разрешения». Писатели также требуют возмещения ущерба.Компания OpenAI использовала горы текстов, найденных в Интернете, для работы своего чат-бота, но не уточнила, какие именно сайты и произведения были использованы.После успеха ChatGPT в прошлом году было подано несколько жалоб, в том числе от компьютерных инженеров, на компании OpenAI, ее основного инвестора Microsoft и платформу GitHub.В январе художники подали коллективный иск против DreamUp, Midjourney и Stable Diffusion — трех моделей ИИ, генерирующих изображения на основе произведений искусства, найденных в Интернете.В этом месяце компания Microsoft объявила о том, что будет обеспечивать правовую защиту клиентов, которым предъявлены иски о нарушении авторских прав на контент, созданный ее инструментами искусственного интеллекта.",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L1",
+        "link2": "L6",
+        "type": "研发"
+      },
+      {
+        "link1": "L5",
+        "link2": "L1",
+        "type": "管理"
+      },
+      {
+        "link1": "L5",
+        "link2": "L7",
+        "type": "拥有"
+      },
+      {
+        "link1": "L6",
+        "link2": "L12",
+        "type": "采用"
+      },
+      {
+        "link1": "L6",
+        "link2": "L13",
+        "type": "采用"
+      },
+      {
+        "link1": "L14",
+        "link2": "L15",
+        "type": "采用"
+      },
+      {
+        "link1": "L11",
+        "link2": "L15",
+        "type": "采用"
+      },
+      {
+        "link1": "L10",
+        "link2": "L15",
+        "type": "采用"
+      },
+      {
+        "link1": "L6",
+        "link2": "L15",
+        "type": "采用"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Джордж Мартин",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L1": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "OpenAI",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L2": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Джона Гришема",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Джоди Пикоулт",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "федеральный суд Нью-Йорка",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L5": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Microsoft",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L6": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "ChatGPT",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L7": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "GitHub",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L8": {
+        "len": 1,
+        "type": "时间",
+        "link": [
+          {
+            "type": "时间",
+            "start": "",
+            "end": "",
+            "text": "19 сентября",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L10": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Midjourney",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L11": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Stable Diffusion",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L12": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "языковых моделей",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L13": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "обучения",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L14": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "DreamUp",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L15": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "ИИ",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "442",
+    "video_title": "",
+    "lang": "russian"
+  },
+  {
+    "doc": "russia_3 | Ученые университета Пенсильвании разработали «нейрон», который успешно интегрирует сенсорную информацию как визуальную так и тактильную. Робот, снабженный таким «нейроном», может одновременно видеть и осязать.|Группа исследователей из Университета штата Пенсильвания разработала искусственный нейрон, способный обрабатывать визуальные и тактильные сенсорные сигналы одновременно. Tyler Henderson/Penn StateВ мозге человека информация обрабатывается не последовательно — сначала визуальная, потом тактильная — а сразу. Такую схему смогли реализовать ученые в новом «нейроне».Ощупывание кошачьей шерсти может дать некоторую информацию, но увидеть животное — это решающий момент: кто же перед нами? Домашняя кошка или лев? Наши органы чувств взаимодействуют друг с другом для получения полного представления, особенно если отдельные сигналы очень слабые. Информация от всех сенсоров значит больше, чем их простая сумма. Роботы, как правило, следуют более простому принципу сложения, но исследователи из Университета Пенсильвании|биологическую концепцию, разработав первый искусственный мультисенсорный нейрон.РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ Соавтор работы Саптарши Даса|: «Роботы принимают решения в зависимости от окружающей среды, но их датчики, как правило, не взаимодействуют друг с другом. Решение может быть принято с помощью блока обработки данных от всех датчиков, но является ли такой подход эффективным? В человеческом мозге одно чувство влияет на другое и позволяет лучше оценивать ситуацию».Например, в автомобиле один датчик сканирует препятствия, а другой определяет освещенность, чтобы регулировать интенсивность света фар. По отдельности эти датчики передают информацию на центральный блок, который затем дает команду автомобилю затормозить или отрегулировать свет фар. По мнению Даса, если позволить датчикам напрямую взаимодействовать друг с другом, это будет более эффективно с точки зрения энергопотребления и скорости работы, особенно если входные сигналы от обоих датчиков слабые.РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ «Биология позволяет маленьким организмам процветать в условиях ограниченных ресурсов, минимизируя при этом потребление энергии», — говорит Дас. — «Требования к различным датчикам зависят от условий — в темном лесу вы будете больше полагаться на слух, чем на зрение, но мы почти никогда не принимаем решений, основываясь только на одном чувстве. Мы полностью ощущаем окружающую обстановку, и принятие решений основано на интеграции того, что мы видим, слышим, осязаем, обоняем и т.д. В биологии органы чувств развивались вместе, а в искусственном интеллекте — по отдельности. В данной работе мы стремимся объединить датчики и имитировать работу нашего мозга».Схема работы нейрона, объединяющего визуальный сенсор и тактильный.РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ Исследователи изготовили мультисенсорный нейрон, соединив тактильный датчик с фототранзистором на основе монослоя дисульфида молибдена — соединения, обладающего уникальными электрическими и оптическими характеристиками. Такой нейрон генерирует электрические импульсы, обрабатывающие информацию, которая интегрирует как визуальные, так и тактильные сигналы.Дас пояснил, что искусственная система мультисенсорных нейронов может повысить эффективность сенсорных технологий, открывая путь к более экологичному использованию ИИ. В результате роботы, беспилотники и самоуправляемые автомобили смогут более эффективно ориентироваться в окружающей среде, потребляя при этом меньше энергии.Соавтор работы Эндрю Панноне говорит: «Мы рассматривали только два органа чувств. Мы работаем над тем, чтобы определить подходящий сценарий для включения остальных и посмотреть, какие преимущества это дает».",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L1",
+        "link2": "L0",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L2",
+        "link2": "L0",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L0",
+        "link2": "L5",
+        "type": "研发"
+      },
+      {
+        "link1": "L4",
+        "link2": "L5",
+        "type": "采用"
+      },
+      {
+        "link1": "L1",
+        "link2": "L5",
+        "type": "研发"
+      },
+      {
+        "link1": "L6",
+        "link2": "L5",
+        "type": "采用"
+      },
+      {
+        "link1": "L6",
+        "link2": "L7",
+        "type": "别名"
+      },
+      {
+        "link1": "L8",
+        "link2": "L9",
+        "type": "别名"
+      },
+      {
+        "link1": "L8",
+        "link2": "L11",
+        "type": "别名"
+      },
+      {
+        "link1": "L10",
+        "link2": "L5",
+        "type": "采用"
+      },
+      {
+        "link1": "L5",
+        "link2": "L12",
+        "type": "采用"
+      },
+      {
+        "link1": "L5",
+        "link2": "L13",
+        "type": "采用"
+      },
+      {
+        "link1": "L2",
+        "link2": "L1",
+        "type": "同事"
+      },
+      {
+        "link1": "L5",
+        "link2": "L14",
+        "type": "采用"
+      },
+      {
+        "link1": "L15",
+        "link2": "L5",
+        "type": "采用"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "университета Пенсильвании",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L1": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Саптарши Даса",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L2": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Эндрю Панноне",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "тактильные",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L5": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "мультисенсорный нейрон",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L6": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "искусственном интеллекте",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L7": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "ИИ",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L8": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "датчики",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L9": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "сенсоров",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L10": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "визуальные",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L11": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "«нейрон»",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L12": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "фототранзистором",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L13": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "сенсорных технологий",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L14": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "дисульфида молибдена",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L15": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "тактильный датчик",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "443",
+    "video_title": "",
+    "lang": "russian"
+  },
+  {
+    "doc": "spanish_1 | unos sensores entretejidos al cabello permitirán que cualquier mujer que se encuentre en una situación dificil pueda informar de manera imperceptible a través d | hairway: controla las apps de tu smartphone con el pelo | atenea garcía13 abr. 2015 01h.enlace copiadolas situaciones de peligro para mujeres a día de hoy siguen siendo una amenaza grande. para ello, la tecnología se pone las pilas y crea dispositivos como este: unos sensores inteligentes enganchados al cabello que cuando se tocan envían mensajes, toman fotos o graban en el smartphone.diversos gadgets comienzan a apostar por salvaguardar la seguridad personal, y en especial la de las mujeres.si hace poco conocíamos | revolar un dispositivo en forma de botón | para pedir auxilio en caso de ataque sexual, ahora aparecen estos sensores a través de los que podrás controlar tu móvil de manera discreta solo con tocarte el pelo.la idea nace de un concepto principal: la discreción en una situación de peligro. a través de estos sensores se podrán realizar diferentes funciones dentro de las aplicaciones de un móvil sin que nadie se de cuenta.en este vídeo podéis ver cómo funciona hairway, la tecnología que controla tu smartphone con extensiones capilares:estos sensores reciben el nombre de hairway y son capaces de abrir una aplicación sin alertar a nadie y sin comprometer la seguridad de quien lo hace.han sido diseñados por un katia vega, una investigadora de la universidad católica de río de janeiro. exactamente se trata de unos sensores tejidos con alambre en extensiones de pelo que se podrán teñir en función del color de la propietaria.los sensores de hairway acompañados de una horquilla de pelo con un módulo bluetooth y un microcontrolador arduino permiten que con solo tocar el cabello estas mujeres puedan comunicarse con su teléfono, incluso hacer fotos o grabar voz.agregamos nuevas funcionalidades a las extensiones de cabello, convirtiéndolo en un dispositivo sin fisuras que reconoce comportamientos ocultos para cualquier observador externo. escribió vega en su página | .hairware actúa como un sensor táctil que detecta variaciones en la forma de tocar el pelo y que utiliza algoritmos de aprendizaje automático con el fin de reconocer la intención del usuario.esto significa que en función de la forma de tocar el cabello lo que se podrá comunicar a través del móvil variará. un toque podría abrir la aplicación; un segundo contacto, o un repaso de la extensión de pelo podrían activar alguna función de las apps, como enviar un mensaje a un amigo o tomar una fotografía discreta.un nuevo dispositivo que aunque aún no sabemos cuando se comercializará, ya ha diso presentado en la | conferecia internacional de interfaz de usuario de 2015. | controla tu móvil de manera discreta solo con tocarte el pelo google pixel 8 pro xiaomi 13t pro honor pad x9 análisis y opinión fútbol iptv apple watch series 9 dias naranjas amazon axel springer neutra en carbono ,",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L1",
+        "link2": "L2",
+        "type": ""
+      },
+      {
+        "link1": "L1",
+        "link2": "L3",
+        "type": ""
+      },
+      {
+        "link1": "L0",
+        "link2": "L4",
+        "type": "从属"
+      },
+      {
+        "link1": "L0",
+        "link2": "L1",
+        "type": "研发"
+      },
+      {
+        "link1": "L7",
+        "link2": "L1",
+        "type": "时间"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "katia vega",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L1": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "hairway",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L2": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "unos sensores entretejidos al cabello",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "unos sensores inteligentes enganchados al cabello",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "la universidad católica de río de janeiro",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L5": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "la | conferecia internacional de interfaz de usuario",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L6": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "hace",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L7": {
+        "len": 1,
+        "type": "时间",
+        "link": [
+          {
+            "type": "时间",
+            "start": "",
+            "end": "",
+            "text": "2015",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "341",
+    "video_title": "",
+    "lang": "spanish"
+  },
+  {
+    "doc": "spanish_2 | en este artículo te mostramos las maneras que tenemos ahora mismo para saltarnos la restricción del tpm para poder instalar windows 11 en nuestro ordenador. | cómo saltarse la protección tpm e instalar windows 11 en cualquier ordenador | 14 ago. 2022 20h.enlace copiadoexisten varias formas por las que podremos saltarnos la protección tpm e instalar el sistema operativo windows 11 en cualquier ordenador. te las contamos para que puedas aprovecharlas.como seguro que ya sabes, para poder | , microsoft colocó una serie de requisitos de hardware bastante estrictos, como puede ser una | .con esta medida, ordenadores antiguos se ven abocados a seguir con | , ya que la nueva versión del sistema operativo no se podrá instalar por no cumplir los requisitos que, desde la marca con sede en redmond, ha impuesto.pero en informática, nada es tan efectivo como para que no se pueda modificar de alguna manera. esto significa que hay varias formas para evitar que requisitos como el tpm | u otros, pidan la extracción de la nueva versión de windows.lo mejor de todo es que tenemos varias formas diferentes para realizar este proceso, lo que significa que cada persona lo hará con la que resulte más fácil o efectiva, ya que tendremos la posibilidad de modificar registro en medio de la configuración, crear un disco de instalación usb o utilizar el software llamado rufus.incluso la propia microsoft también ha creado un truco de registro oficial para poder eludir los requisitos del tpm 2.0 y cpu. lo que ocurre es que con este método aún debes cumplir el tener, por lo menos, tpm 1.2, lo que significa que, si no tienes este chip, de nada te sirve lo que ofrece la empresa americana.sea cual sea la forma por la que queremos conseguir que el tpm no sea ningún impedimento para poder instalar | , lo vas a tener detallado a continuación, para que todos los procesos sean los más sencillos posibles de realizar.métodos para instalar windows sin tpm: | mediante el registro de la instalación gracias a rufus desde windows update oficial de microsoft | mediante el registro de la instalación | si tenemos un disco de instalación normal o una iso con windows 11, podemos hacer que los requisitos del tpm y la ram ya no sean un impedimento. algo que debéis tener muy claro es que este sistema solo funciona en una instalación limpia.arrancamos desde su disco de instalación o desde la imagen iso de windows 11. presionamos las teclas mayús + f10 para iniciar el símbolo del sistema.ahora, dentro del registro debemos ir a la siguiente ruta: hkey_local_machine\\system\\setupcreamos una nueva clave de registro en configuración y le asignamos el nombre labconfig. si no sabes generarla es tan sencillo como hacer clic con el botón derecho del ratón en el panel derecho de la ventana y seleccionar nueva clave, para finalmente poner el nombre.dentro de labconfig, generamos valores dword llamados bypasstpmcheck y bypasssecureboot y establecemos sus valores en 1. la manera de crear un nuevo valor dword es haciendo clic derecho en la ventana derecha y seleccionando el nuevo valor dword (32 bits), para seguidamente asignar un nombre a la clave. después se hace doble clic para abrirla y configúrela en 1. si también queremos omitir el requisito de ram, agregamos valores dword para bypassramcheckcerramos regedit y el símbolo del sistema, para que a partir de ahora ya podamos continuar con su instalación de windows 11 normalmente. | rufus es un programa gratuito que permite generar un disco de instalación de windows 11 en una unidad flash usb configurándolo para que ya no nos soliciten los requisitos de tpm, ram y cpu.los únicos requisitos que tiene utilizar rufus son que la unidad flash usb debe de ser de 16 gb o más y que, al estar en una unidad usb, es más difícil de usar para instalar windows 11 en una máquina virtual donde un archivo iso sería ideal.los pasos para seguir son los siguientes: | y la instalamos en el ordenador.insertamos una memoria usb en blanco de 16 gb o más y luego abrimos rufus.seleccionamos el dispositivo usb en el que queremos instalar windows 11.debemos asegurarnos de que boot selection muestra disco o imagen iso y hacemos clic en descargar.seleccione windows 11, luego continuar, seguidamente elegimos la última versión y volvemos a pulsar en continuar.ahora debemos poner la edición y haga clic en continuar, para después elegir el idioma y pulsar de nuevo en continuar.es el momento de seleccionar la arquitectura (lo normal x64) y hacer clic en descargar. veremos cómo se abre una nueva ventana preguntando dónde guardar la imagen iso. lo guardamos en la carpeta de descargas, aunque también podemos descargar la imagen usando un navegador si queremos.hacemos clic en el menú desplegable imagen y seleccionamos instalación extendida de windows 11 para deshabilitar tpm, arranque seguro y el requisito de 8 gb de ram.volvemos a verificar que se haya seleccionado la unidad correcta y entonces hacemos clic en iniciar para comenzar la instalación.el proceso de escritura puede llevar algún tiempo, dependiendo de la unidad usb que utilicemos, pero cuando termine, la unidad se puede quitar y emplear para instalar windows 11 en un ordenador más antiguo o incluso en una máquina virtual. ahora instalamos o actualizamos a windows 11. debemos tener claro que ejecutaremos la configuración en la unidad usb, si estamos realizando una instalación que va a actualizar desde windows 10. mientras que arrancaremos desde la unidad si se va a hacer una instalación limpia. si tenemos problemas, puede deberse a que debemos deshabilitar el arranque seguro en la bios. | si para la instalación preferimos utilizar windows update, vamos a necesitar un método que ejecute la actualización sin que nos exija el tpm como requisito fundamental de la instalación.te mostramos como debes hacerlo: | fuente skip_tpm_check_on_dynamic_update.cmd en la herramienta github de creación de medios de aveyo.pulsamos en el botón copiar contenido sin procesar en la esquina superior derecha del cuadro de código.creamos un nuevo archivo en el escritorio y le asignamos el nombre skip_tpm_check.cmddebemos asegurarnos de que se pueden ver las extensiones de archivo y que la extensión del archivo es realmente .cmd, ya que si no es así no se ejecutará.abrimos skip_tpm.cmd para editarlo, usando el bloc de notas u otro editor de texto.pegamos el código que copiamos de github.guardamos y ejecutamos el archivo skip_tpm.cmd.debemos pulsar en sí cuando solicite el control de cuentas de usuario. ahora veremos un mensaje que dice que se ha instalado omitir tpm en la actualización dinámica. si vuelve a ejecutar el programa, desactivará la utilidad. windows update ahora debería poder actualizar nuestra compilación de windows 11 existente.además, incluso podremos actualizarlo de windows 10 a 11. | también windows proporcionó un truco para que se rebajaran un poco los requisitos de instalación de windows 11, permitiendo que ordenadores con tpm 1.2 también pudieran instalar el nuevo sistema operativo.la manera de hacerlo es esta:abrimos regedit.vamos hasta la ruta: hkey_local_machine\\system\\setup\\mosetup creamos un dword (32 bits) llamado allowupgradeswithunsupportedtpmorcpu (si no existe).establecemos allowupgradeswithunsupportedtpmorcpu en 1.cerramos regedit y reiniciamos el pc.ahora deberíamos poder actualizar a windows 11 desde windows 10 mediante el uso de medios de instalación.estas son las maneras que tenemos de saltarnos la restricción del tpm para poder instalar windows 11 en nuestro ordenador.utiliza la que veas que te sientes más cómodo y podrás disfrutar del nuevo sistema operativo. | honor pad x9, una tablet para todos los públicos que puede enganc | chip tpm 2.0 en windows 11 instalación windows 11 regedit rufus copiar código código github google pixel 8 pro xiaomi 13t pro honor pad x9 análisis y opinión ,",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L2",
+        "link2": "L1",
+        "type": "研发"
+      },
+      {
+        "link1": "L2",
+        "link2": "L6",
+        "type": "别名"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "tpm",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L1": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "windows 11",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L2": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "microsoft",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "rufus",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "tpm 2.0",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L5": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "la unidad flash usb",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L6": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "la marca con sede en redmond",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L7": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "github",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "342",
+    "video_title": "",
+    "lang": "spanish"
+  }
+]
