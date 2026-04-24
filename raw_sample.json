@@ -1,258 +1,91 @@
 [
   {
-    "doc": "|安森美全新 ADAS电源 I提升 ADAS系统的清晰度及安全性厂商：ON Sn /安森美 直播时间：03-0- 000||安森美全新 ADAS电源 I提升 ADAS系统的清晰度及安全性厂商：ON Sn /安森美直播时间：03-0- 000|与传统的硅器件相比，碳化硅（S）器件由于拥有低导通电阻特性以及出色的高温、高频和高压性能，已经成为下一代低损耗半导体可行的候选器件。此外，S让设计人员能够减少元件的使用，从而进一步降低了设计的复杂程度。罗姆在S功率元器件和模块的开发领域处于先进地位，这些器件和模块在许多行业的应用中都实现了更佳的节能效果。围绕电源、功率转换、切换电路时所需的电源I或功率元器件，罗姆将通过应用手册为您讲 EEWOD社区 电源技术|.3 .MX6U/.MX6U开发板串口如何连接?答：计算机使用US转TT串口转接线与开发板的DEUG串口(JP)连接.不要拿S3电平 D9串口线用杜邦线连接JP,电平不匹配。可以联系米尔购买调试串口线。说明：感谢大家的关注。本文转自米尔公众号专题文章，是由米尔电子工程师基于米尔电子 .MX6U/.MX6U产品对.MX6U/.MX nn AM技术|本人对的PSO一直有高大上不接地气的感觉，不过最近世强代理了这家的产品线，他们的给我们推了款基于PSO的马达控制解决方案，对比之前的STM3方案，逐渐有点改变了我的看法，目前我们有计划改变平台的想法。世强FAE观点认为认为就像当初0抢了MU的高端市场一样，PSO会抢STM3这类AM芯片的高端部分，不知道大家是怎么看的？她给出了几点观点 欧木木 嵌入式系统",
+    "doc": "9月6日，为期3天的第24届中国国际光电博览会（下简称“光博会”）在深圳国际会展中心正式开幕。作为致力于光纤网络的前沿技术开发的国产芯片公司，鹏瞰半导体亮相本次大会的11号馆11E53展位。本次展会，公司以“用芯构建光时代神经系统 Lighting the world with TS-PON”为主题，充分展示了公司的愿景——用创新的TS-PON SoC 芯片技术构建智能机器人、智能汽车等超级终端的光通信与控制平台。现场人气火爆，吸引大量产业人士、资深专家、投资机构、专业媒体等前来沟通交流。 公司为业界提供超低时延、高安全、高可靠、低功耗及可扩展的端到端工业连接芯片及全栈式解决方案。此次光博会，公司展示两大主营产品，即基于TS-PON（时间敏感PON技术）的VN1810 和VN1110 系列SoC芯片，以及基于标准XGS/XG/GPON协议的VN180x 和 VN110x系列SoC芯片。前者芯片集成了USB、MIPI、PCIe、ADC/DAC/PWM、CAN-FD等丰富的高速与低速接口。应用于工业通信与控制，机器人通信与控制，及智能汽车通信与控制。后者满足当前FTTR应用，及FTTH和POL等应用。   其中，TS-PON是一种时间敏感无源光网络技术。它充分借鉴TSN技术的低时延高确定性机制，并采纳光宽带通信的10G PON技术为基座。将TSN与PON技术进行了原创性融合并命名为TS-PON技术。TS-PON在单芯光纤上双向传输10Gbit/s万兆带宽，将基于工业以太网ms级时延降低至约µs级。 此外，鹏瞰半导体还是业界第一家推出基于ITU标准XGS/XG/GPON协议的FTTR mini-OLT ASIC方案的企业，且已完成和业界其他HUG（ONU）芯片的互联互通。  鹏瞰半导体采用软件可定义，可重构可定制的SoC架构。芯片集成网络通信、交换和控制必备的多功能模块，SoC主要分APT（Advanced PON Technology）模块，NSE（Network Switch Engine）模块，CPU模块，FIO(Flexible IO interfaces)模块等，这些模块都可以通过软件来定义协议和功能。使得芯片不仅可以灵活定义为TS-PON SoC，也可以定义为ITU标准的XGS/XG/GPON SoC，灵活的芯片架构还可以应对FTTR 2.5G对称等需求的演进，继续保持领先地位。   展会现场，鹏瞰半导体与半导体行业观察、电子发烧友、荣格工业传媒等专业媒体进行了深度的沟通交流。公司也分享了目前产品的市场情况，如今公司基于TS-PON技术开发的VN系列SoC芯片已经在工业4.0、机器人、智能汽车领域得到应用。公司展示的FTTR/FTTH方案，工业4.0传控一体化方案，机器人光神经网络方案，智能汽车“光上车”车载平台方案正在不断被产业熟知和认可。 未来，公司正在规划组合型超大容量SoC（比如4*10G通信，300G交换容量），另外单芯光纤通信速率50G的产品系列也已经列入产品规划路标，包括50G TS-PON和50G ITU PON。",
     "time_sent_pair": {},
     "relation": [
       {
-        "link1": "L0",
-        "link2": "L1",
+        "link1": "L4",
+        "link2": "L7",
         "type": "拥有"
-      },
-      {
-        "link1": "L7",
-        "link2": "L8",
-        "type": "采用"
-      },
-      {
-        "link1": "L5",
-        "link2": "L6",
-        "type": "雇佣"
-      },
-      {
-        "link1": "L2",
-        "link2": "L3",
-        "type": "研发"
-      }
-    ],
-    "entityLink": {
-      "L0": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "罗姆",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L1": {
-        "len": 1,
-        "type": "技术",
-        "link": [
-          {
-            "type": "技术",
-            "start": "",
-            "end": "",
-            "text": "S功率元器件和模块",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L2": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "ON Sn /安森美",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L3": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "ADAS电源",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L4": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "米尔",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L5": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "米尔",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L6": {
-        "len": 1,
-        "type": "人员",
-        "link": [
-          {
-            "type": "人员",
-            "start": "",
-            "end": "",
-            "text": "电子工程师",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L7": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": " .MX6U/.MX6U产品",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L8": {
-        "len": 1,
-        "type": "技术",
-        "link": [
-          {
-            "type": "技术",
-            "start": "",
-            "end": "",
-            "text": ".MX6U/.MX nn AM技术",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L10": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "碳化硅（S）器件",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L11": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "S",
-            "sent_time": ""
-          }
-        ]
-      }
-    },
-    "image": [],
-    "video_id": "1527",
-    "video_title": "",
-    "lang": "chinese"
-  },
-  {
-    "doc": "|安森美全新 ADAS电源 I提升 ADAS系统的清晰度及安全性厂商：ON Sn /安森美 直播时间：03-0- 000||安森美全新 ADAS电源 I提升 ADAS系统的清晰度及安全性厂商：ON Sn /安森美直播时间：03-0- 000|各位，请问你们工作中常规运放、DA等模拟电路里的电源质量最好能到什么指标。最简单的就常规DD+DO供 ...关键字：|德克萨斯AM大学的科学家们发现无金属的水基电池电极的存储容量有着高达000的差异。无金属的水基电池与那些利用钴的锂离子形式的电池是独 ...|近日，一则落款日期为3月9日的公告显示，位列世界00强企业松下株式会社旗下公司——松下蓄电池（沈阳）有限公司，宣布了将会在03年月3 ...|日本媒体的一项分析显示，在锂离子电池替代品的开发竞赛中，中国正不断提升实力。过去 0年，与后锂离子电池技术相关的各国专利统计显示 ...|电池原型。图片来源：维也纳工业大学锂离子电池储存能量非常高效，这使得大量能量可装入一个相当小的电池中。但锂离子电池会随着时间的推移 ...|电池快速充电指南——第部分摘要虽然更高的电池容量延长了设备的使用时间，但如何缩短充电时间，这给设计人员带来了额外的挑战。快速充电 ...|是德科技面向物联网和智能设备推出电池模拟和分析解决方案•全方位的模拟解决方案，轻松识别影响物联网和智能设备电池消耗的各种变量，从而 ...|M9 双节串联锂电池充放电管理的3W移动电源双向快充I方案引言目前市场上很多两节串联大容量锂电池的产品应用会附带移动电源功能，如 ...|东丽工程成功研制环保型锂电池电极涂布机03年3月6日，东丽工程株式会社（总部：东京中央区；首席执行官兼首席运营官：岩出敬；以下简称 ...|Q® 推出业界首款 0电池组智能电池管理单芯片解决方案中国北京，03年 3月 日 ——全球领先的连接和电源解决方案供 ...|Q® PA 系列提供业界首款 0单元智能电池管理单芯片解决方案美国北卡罗来纳州格林斯巴勒市 – 03年 3月 7日 –全 ...|北京市海淀区中关村大街号座层30室 电话(00)3070 邮编：0090 电子工程世界版权所有 京-079",
-    "time_sent_pair": {},
-    "relation": [
-      {
-        "link1": "L0",
-        "link2": "L1",
-        "type": "研发"
       },
       {
         "link1": "L8",
-        "link2": "L9",
-        "type": "拥有"
+        "link2": "L7",
+        "type": "采用"
       },
       {
-        "link1": "L10",
-        "link2": "L11",
-        "type": "研发"
+        "link1": "L9",
+        "link2": "L7",
+        "type": "采用"
       },
       {
         "link1": "L13",
-        "link2": "L14",
-        "type": "研发"
+        "link2": "L12",
+        "type": "包含"
+      },
+      {
+        "link1": "L13",
+        "link2": "L11",
+        "type": "包含"
+      },
+      {
+        "link1": "L14",
+        "link2": "L15",
+        "type": "别名"
+      },
+      {
+        "link1": "L13",
+        "link2": "L19",
+        "type": "包含"
+      },
+      {
+        "link1": "L13",
+        "link2": "L20",
+        "type": "包含"
+      },
+      {
+        "link1": "L28",
+        "link2": "L29",
+        "type": "别名"
+      },
+      {
+        "link1": "L34",
+        "link2": "L33",
+        "type": "包含"
+      },
+      {
+        "link1": "L34",
+        "link2": "L30",
+        "type": "包含"
+      },
+      {
+        "link1": "L30",
+        "link2": "L31",
+        "type": "包含"
+      },
+      {
+        "link1": "L30",
+        "link2": "L32",
+        "type": "包含"
+      },
+      {
+        "link1": "L39",
+        "link2": "L40",
+        "type": "别名"
+      },
+      {
+        "link1": "L41",
+        "link2": "L42",
+        "type": "别名"
+      },
+      {
+        "link1": "L44",
+        "link2": "L45",
+        "type": "别名"
       }
     ],
     "entityLink": {
       "L0": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "ON Sn /安森美",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L1": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": " ADAS电源",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L2": {
-        "len": 1,
-        "type": "机构",
-        "link": [
-          {
-            "type": "机构",
-            "start": "",
-            "end": "",
-            "text": "德克萨斯AM大学",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L3": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "无金属的水基电池电极",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L4": {
         "len": 1,
         "type": "时间",
         "link": [
@@ -260,12 +93,25 @@
             "type": "时间",
             "start": "",
             "end": "",
-            "text": "3月9日的",
+            "text": "9月6日",
             "sent_time": ""
           }
         ]
       },
-      "L6": {
+      "L3": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "深圳国际会展中心",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
         "len": 1,
         "type": "企业",
         "link": [
@@ -273,38 +119,12 @@
             "type": "企业",
             "start": "",
             "end": "",
-            "text": "松下蓄电池（沈阳）有限公司",
+            "text": "鹏瞰半导体",
             "sent_time": ""
           }
         ]
       },
-      "L7": {
-        "len": 1,
-        "type": "国家",
-        "link": [
-          {
-            "type": "国家",
-            "start": "",
-            "end": "",
-            "text": "中国",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L8": {
-        "len": 1,
-        "type": "机构",
-        "link": [
-          {
-            "type": "机构",
-            "start": "",
-            "end": "",
-            "text": "维也纳工业大学",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L9": {
+      "L5": {
         "len": 1,
         "type": "技术",
         "link": [
@@ -312,20 +132,72 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "锂离子电池储存能量",
+            "text": "用芯构建光时代神经系统",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L6": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "Lighting the world with TS-PON",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L7": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "TS-PON SoC 芯片技术",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L8": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "智能机器人",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L9": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "智能汽车",
             "sent_time": ""
           }
         ]
       },
       "L10": {
         "len": 1,
-        "type": "企业",
+        "type": "技术",
         "link": [
           {
-            "type": "企业",
+            "type": "技术",
             "start": "",
             "end": "",
-            "text": "是德科技",
+            "text": "端到端工业连接芯片及全栈式解决方案",
             "sent_time": ""
           }
         ]
@@ -338,7 +210,7 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "电池模拟和分析解决方案•",
+            "text": "VN1810",
             "sent_time": ""
           }
         ]
@@ -351,12 +223,639 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "M9 双节串联锂电池充放电管理的3W移动电源",
+            "text": "VN1110",
             "sent_time": ""
           }
         ]
       },
       "L13": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "SoC芯片",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L14": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "TS-PON",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L15": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "时间敏感PON技术",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L16": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "XGS",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L17": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "XG",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L18": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "GPON",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L19": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "VN180x",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L20": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "VN110x",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L21": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "USB",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L22": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "MIPI",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L23": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "PCIe",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L24": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "ADC",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L25": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "DAC",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L26": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "PWM",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L27": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "CAN-FD",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L28": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "TS-PON",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L29": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "时间敏感无源光网络技术",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L30": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "TSN技术",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L31": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "低时延高确定性机制",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L32": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "10G PON技术",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L33": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "PON技术",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L34": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "TS-PON技术",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L35": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "FTTR mini-OLT ASIC方案",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L36": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "HUG",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L37": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "ONU",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L38": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "SoC架构",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L39": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "APT",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L40": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "Advanced PON Technology",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L41": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "NSE",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L42": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "Network Switch Engine",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L43": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "CPU",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L44": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "FIO",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L45": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "Flexible IO interfaces",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L46": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "FTTR 2.5G对称",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L47": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "光上车",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L48": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "半导体行业观察",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L49": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "电子发烧友",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L50": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "荣格工业传媒",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "1355",
+    "video_title": "",
+    "lang": "chinese"
+  },
+  {
+    "doc": "11 月 16 日，在郑州 2023 数字经济峰会上，阿里云、中科可控联合郑州大学共同发布人工智能云平台。 该平台由中科可控提供人工智能算力服务支持，并基于郑州的高端计算资源，以及阿里云的机器学习平台 PAI 构建。平台可为当前国内热门的大模型应用提供验证，将起到技术创新“加速器”重要作用。 当前，人工智能技术迎来爆发式发展，大模型时代从此展开。11 月，科技部发布报告显示，我国研发的大模型数量已排名全球第二。国内大模型从无到有，再到百花齐放，总体呈现出贴近产业端应用，加速落地融合的趋势。 为促进大模型开发生产力进步、厚植人工智能大模型应用创新，阿里云、中科可控、郑州大学三方共建的人工智能云平台应运而生。 人工智能云平台集各方资源禀赋，可为开发者提供包括数据标注、模型构建、训练和部署、推理优化等全流程服务。同时基于云计算平台，可实现人工智能算法加速与算力资源调度，平台集中三大优势，具体在于： 平台架构：平台基于异构并行搭建，能够解决算力输出、转化、匹配、应用的问题，并依托于中科可控的算力底座，为 AI 大模型开发提供高性能、高稳定的普惠算力。 产品服务：平台汇聚了阿里云机器学习 PAI 资源和中科可控的开放 API 接口、优化适配环境、定制商业模式等服务，将产业链生态做大，降低了用户使用门槛。 人才培养：基于人工智能云平台，阿里云、中科可控和郑州大学也将展开人才培育合作。借助平台高端计算人才培养优势，持续造就大模型人才、编译器人才等高端 AI 人才。 此次人工智能云平台的面世将加快人工智能技术的创新与应用，推动 AI 产业高速发展，为培育我国新质生产力提供有力支持。",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L3",
+        "link2": "L4",
+        "type": "合作"
+      },
+      {
+        "link1": "L4",
+        "link2": "L5",
+        "type": "合作"
+      },
+      {
+        "link1": "L5",
+        "link2": "L6",
+        "type": "研发"
+      },
+      {
+        "link1": "L4",
+        "link2": "L6",
+        "type": "研发"
+      },
+      {
+        "link1": "L3",
+        "link2": "L6",
+        "type": "研发"
+      },
+      {
+        "link1": "L10",
+        "link2": "L8",
+        "type": "拥有"
+      },
+      {
+        "link1": "L9",
+        "link2": "L7",
+        "type": "拥有"
+      },
+      {
+        "link1": "L6",
+        "link2": "L7",
+        "type": "采用"
+      },
+      {
+        "link1": "L6",
+        "link2": "L8",
+        "type": "采用"
+      },
+      {
+        "link1": "L11",
+        "link2": "L12",
+        "type": "合作"
+      },
+      {
+        "link1": "L12",
+        "link2": "L13",
+        "type": "合作"
+      },
+      {
+        "link1": "L13",
+        "link2": "L14",
+        "type": "研发"
+      },
+      {
+        "link1": "L12",
+        "link2": "L14",
+        "type": "研发"
+      },
+      {
+        "link1": "L11",
+        "link2": "L14",
+        "type": "研发"
+      },
+      {
+        "link1": "L16",
+        "link2": "L15",
+        "type": "拥有"
+      },
+      {
+        "link1": "L17",
+        "link2": "L15",
+        "type": "采用"
+      },
+      {
+        "link1": "L18",
+        "link2": "L14",
+        "type": "别名"
+      },
+      {
+        "link1": "L18",
+        "link2": "L19",
+        "type": "包含"
+      },
+      {
+        "link1": "L18",
+        "link2": "L20",
+        "type": "包含"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "时间",
+        "link": [
+          {
+            "type": "时间",
+            "start": "",
+            "end": "",
+            "text": "11 月 16 日",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L1": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "郑州",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
         "len": 1,
         "type": "企业",
         "link": [
@@ -364,7 +863,137 @@
             "type": "企业",
             "start": "",
             "end": "",
-            "text": "东丽工程",
+            "text": "阿里云",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "中科可控",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L5": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "郑州大学",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L6": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "人工智能云平台",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L7": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "人工智能算力服务",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L8": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "机器学习平台 PAI ",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L9": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "中科可控",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L10": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "阿里云",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L11": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "阿里云",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L12": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "中科可控",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L13": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "郑州大学",
             "sent_time": ""
           }
         ]
@@ -377,12 +1006,446 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "环保型锂电池电极涂布机",
+            "text": "人工智能云平台",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L15": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "算力底座",
             "sent_time": ""
           }
         ]
       },
       "L16": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "中科可控",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L17": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "AI 大模型",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L18": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "平台",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L19": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "阿里云机器学习 PAI 资源",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L20": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "中科可控的开放 API 接口",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "1478",
+    "video_title": "",
+    "lang": "chinese"
+  },
+  {
+    "doc": "Chris Bee. (LinkedIn Photo)\n\n\nChris Bee, a tech exec who previously worked at Lessen, Zillow, and Uber, joined AI email startup Superhuman as chief technology officer. \n\n\n\nBee was most recently CTO at Lessen, a property services management startup valued at more than $2 billion last year.\n\n\n\n\"I can't be more excited to help build such a beloved product that gives people time back every day,\" Bee wrote on LinkedIn. \n\n\n\nSan Francisco-based Superhuman raised $75 million in 2021 to fuel development of its email app that aims to streamline how people send, receive, and compose emails in clients including Gmail and Outlook. The company is now targeting enterprises.\n\n\n\nBee, who is based in Seattle, was previously a senior director at Zillow Group and a senior engineering manager at Uber.\n\n\n\nOther key personnel changes across the Pacific Northwest tech industry:\n\n\n\nTammy Perkins. (LinkedIn Photo)\n\n\n— Tammy Perkins, a longtime HR executive based in Seattle, joined HR software provider ProService as chief people officer. Perkins previously held the same role at HAVI, and spent 13 years at Amazon. She also worked at PMI Worldwide, Fjuri, Appen, and Microsoft.\n\n\n\n— Jonathan Klein, co-founder and former CEO of Seattle-based Getty Images, resigned from the company's board last week. Klein, who helped launch the photo giant in 1995, stepped down as CEO in 2015, and left his chair role in 2018. \n\n\n\n— Olly Downs, a longtime Seattle tech leader, was named chief technology and AI officer at Curinos. He joined the New York City-based fintech startup last year. Downs previously held exec roles at BARK, Zulily, and ZIllow Group. He founded and led Amplero, a Seattle marketing startup.\n\n\n\nLarry Hryb. (GeekWire File Photo)\n\n\n\n— Larry Hryb, who spent more than 20 years at Microsoft and became the de-facto face of Xbox, joined Unity as director of community at the game development giant. \n\n\n\n\"At Unity, I see a horizon brimming with potential,\" Hryb wrote on LinkedIn. \"Unity's mission of empowering creative and business success of creators around the world across games, apps, and experiences aligns with my lifelong passion for innovation and community building.\"\n\n\n\nHryb, also known as Major Nelson, stepped away from Microsoft last year. He was one of the main ambassadors of Xbox and also hosted the Official Xbox Podcast.\n\n\n\nRyan Powell. (Pipe17 Photo)\n\n\n— Seattle logistics startup Pipe17 hired Ryan Powell as chief revenue officer. Powell previously worked at Ryder System, Whiplash, and Easyship.\n\n\n\n— Chris Green joined the Pacific Northwest Hydrogen Association as its first president. He was most recently assistant director for the Office of Economic Development and Competitiveness at the Washington state Department of Commerce.\n\n\n\n— Portland, Ore.-based nonprofit Latino Founders named Juan Barraza as its new executive director. Barraza joined the organization's board in 2019. He is currently director of innovation and entrepreneurship at VertueLab.\n\n\n\n— Andrew Coté, vice president of strategy and growth at Seattle startup Brinc Drones, joined the Business Executives for National Security, a network of security business leaders based in Washington D.C. \n\n\n\n— Karina Martija-Harris, previously a program manager at Washington Maritime Blue, Maritime Blue, joined the National Security Innovation Network as a program management analyst.",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L0",
+        "link2": "L1",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L0",
+        "link2": "L2",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L0",
+        "link2": "L3",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L0",
+        "link2": "L4",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L6",
+        "link2": "L8",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L6",
+        "link2": "L0",
+        "type": "别名"
+      },
+      {
+        "link1": "L9",
+        "link2": "L4",
+        "type": "位于"
+      },
+      {
+        "link1": "L6",
+        "link2": "L13",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L6",
+        "link2": "L15",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L16",
+        "link2": "L17",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L19",
+        "link2": "L16",
+        "type": "别名"
+      },
+      {
+        "link1": "L16",
+        "link2": "L25",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L16",
+        "link2": "L20",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L16",
+        "link2": "L21",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L16",
+        "link2": "L22",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L16",
+        "link2": "L23",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L16",
+        "link2": "L24",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L26",
+        "link2": "L27",
+        "type": "负责人"
+      },
+      {
+        "link1": "L28",
+        "link2": "L26",
+        "type": "别名"
+      },
+      {
+        "link1": "L31",
+        "link2": "L33",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L34",
+        "link2": "L33",
+        "type": "位于"
+      },
+      {
+        "link1": "L35",
+        "link2": "L31",
+        "type": "别名"
+      },
+      {
+        "link1": "L35",
+        "link2": "L36",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L31",
+        "link2": "L37",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L31",
+        "link2": "L38",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L31",
+        "link2": "L39",
+        "type": "负责人"
+      },
+      {
+        "link1": "L40",
+        "link2": "L39",
+        "type": "位于"
+      },
+      {
+        "link1": "L41",
+        "link2": "L42",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L41",
+        "link2": "L44",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L46",
+        "link2": "L41",
+        "type": "别名"
+      },
+      {
+        "link1": "L41",
+        "link2": "L43",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L47",
+        "link2": "L41",
+        "type": "别名"
+      },
+      {
+        "link1": "L49",
+        "link2": "L48",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L51",
+        "link2": "L49",
+        "type": "别名"
+      },
+      {
+        "link1": "L49",
+        "link2": "L52",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L49",
+        "link2": "L53",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L49",
+        "link2": "L54",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L55",
+        "link2": "L56",
+        "type": "负责人"
+      },
+      {
+        "link1": "L55",
+        "link2": "L58",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L59",
+        "link2": "L61",
+        "type": "负责人"
+      },
+      {
+        "link1": "L60",
+        "link2": "L59",
+        "type": "别名"
+      },
+      {
+        "link1": "L60",
+        "link2": "L63",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L64",
+        "link2": "L65",
+        "type": "负责人"
+      },
+      {
+        "link1": "L40",
+        "link2": "L65",
+        "type": "位于"
+      },
+      {
+        "link1": "L67",
+        "link2": "L66",
+        "type": "位于"
+      },
+      {
+        "link1": "L64",
+        "link2": "L66",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L68",
+        "link2": "L70",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L68",
+        "link2": "L71",
+        "type": "雇佣"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Chris Bee",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L1": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Lessen",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L2": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Zillow",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Uber",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Superhuman",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L6": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Bee",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L8": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Lessen",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L9": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "San Francisco",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L11": {
         "len": 1,
         "type": "时间",
         "link": [
@@ -390,7 +1453,46 @@
             "type": "时间",
             "start": "",
             "end": "",
-            "text": "03年3月6日",
+            "text": "2021",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L13": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Zillow Group",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L15": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Uber",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L16": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Tammy Perkins",
             "sent_time": ""
           }
         ]
@@ -403,20 +1505,7 @@
             "type": "企业",
             "start": "",
             "end": "",
-            "text": "东丽工程株式会社",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L18": {
-        "len": 1,
-        "type": "地点",
-        "link": [
-          {
-            "type": "地点",
-            "start": "",
-            "end": "",
-            "text": "东京中央区",
+            "text": "ProService",
             "sent_time": ""
           }
         ]
@@ -429,479 +1518,64 @@
             "type": "人员",
             "start": "",
             "end": "",
-            "text": "岩出敬",
+            "text": "Perkins",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L20": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Amazon",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L21": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "PMI Worldwide",
             "sent_time": ""
           }
         ]
       },
       "L22": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
-            "text": "0电池组智能电池管理单芯片解决方案",
+            "text": "Fjuri",
             "sent_time": ""
           }
         ]
       },
       "L23": {
         "len": 1,
-        "type": "国家",
+        "type": "企业",
         "link": [
           {
-            "type": "国家",
+            "type": "企业",
             "start": "",
             "end": "",
-            "text": "中国",
+            "text": "Appen",
             "sent_time": ""
           }
         ]
       },
       "L24": {
-        "len": 1,
-        "type": "地点",
-        "link": [
-          {
-            "type": "地点",
-            "start": "",
-            "end": "",
-            "text": "北京",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L25": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "0单元智能电池管理单芯片解决方案",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L26": {
-        "len": 1,
-        "type": "国家",
-        "link": [
-          {
-            "type": "国家",
-            "start": "",
-            "end": "",
-            "text": "美国",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L27": {
-        "len": 1,
-        "type": "地点",
-        "link": [
-          {
-            "type": "地点",
-            "start": "",
-            "end": "",
-            "text": "北卡罗来纳州格林斯巴勒市",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L28": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "电源解决方案",
-            "sent_time": ""
-          }
-        ]
-      }
-    },
-    "image": [],
-    "video_id": "1528",
-    "video_title": "",
-    "lang": "chinese"
-  },
-  {
-    "doc": "2023年7月18日 – 专注于推动行业创新的知名新品引入 (NPI) 代理商™贸泽电子 (Mouser Electronics) 发布了三本与设计相关的新电子书，深入开展一系列技术探讨，包括城市空中运输电动交通工具的未来、车队远程信息处理设计，以及下一代系统架构的进展。 今年，贸泽与多家品牌制造商合作伙伴共合作推出了七本电子书，提供设计工程师解决新工程挑战所需的实用指南。下面为您精心挑选了贸泽近期与Texas Instruments、TE Connectivity和Samtec三家制造商合作伙伴联手推出的几本电子书： Addressing New Challenges in Urban Air Mobility，与Texas Instruments合作出版 在《Addressing New Challenges in Urban Air Mobility》（克服城市空中运输的新挑战）中，包括Texas Instruments代表在内的多位业界专家就城市空中运输 (UAM) 电动交通工具的快速发展趋势提出了专业见解。本电子书带您一睹UAM交通工具的前景，概述了该行业面临的新挑战，讨论了如何确保功能安全性，并且强调了电气隔离以及控制UAM复杂性和重量的重要性。 7 Experts on Design Considerations for Fleet Telematics，与TE Connectivity合作出版 《7 Experts on Design Considerations for Fleet Telematics》（7位专家联手献策：车队远程信息处理的设计注意事项）电子书重点介绍了车队远程信息处理固有的设计挑战。来自Lytx、Mobile Valley、Ruptela、TE Connectivity和Teltonika的行业专家深入分析了影响车队远程通信的各种因素，介绍了环境因素、连接、应用设计、能源效率以及物联网 (IoT) 生态系统的重要性。 Samtec Flyover Solutions Break Next-Gen System Architecture Constraints，与Samtec合作出版 在《Samtec Flyover Solutions Break Next-Gen System Architecture Constraints》（Samtec Flyover解决方案突破下一代系统架构的限制）中，来自Samtec的行业专家就技术新突破如何让电子设计取得重大进步提出了丰富见解，他们的观点涵盖高速信号路由、高速信号完整性、双芯电缆技术和光缆系统等主题。",
-    "time_sent_pair": {},
-    "relation": [
-      {
-        "link1": "L1",
-        "link2": "L2",
-        "type": "合作"
-      },
-      {
-        "link1": "L1",
-        "link2": "L3",
-        "type": "合作"
-      },
-      {
-        "link1": "L1",
-        "link2": "L4",
-        "type": "合作"
-      }
-    ],
-    "entityLink": {
-      "L0": {
-        "len": 1,
-        "type": "时间",
-        "link": [
-          {
-            "type": "时间",
-            "start": "",
-            "end": "",
-            "text": "2023年7月18日",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L1": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "贸泽电子",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L2": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "Texas Instruments",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L3": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "TE Connectivity",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L4": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "Samtec",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L5": {
-        "len": 1,
-        "type": "技术",
-        "link": [
-          {
-            "type": "技术",
-            "start": "",
-            "end": "",
-            "text": "双芯电缆",
-            "sent_time": ""
-          }
-        ]
-      }
-    },
-    "image": [],
-    "video_id": "2565",
-    "video_title": "",
-    "lang": "english"
-  },
-  {
-    "doc": "2021年12月29日 – 专注于引入新品推动行业创新的电子元器件分销商贸泽电子 (Mouser Electronics) 致力于持续为工程师提供各种丰富的前沿技术资源。今年，贸泽发布了比以往更多的电子书，并与多家知名制造商合作推出各类实用指南，为设计工程师解决新工程挑战提供所需的信息。  下面为您精心挑选了贸泽与Amphenol Corporation、Bourns以及Maxim Integrated® （现已被Analog Devices收购）合作近期推出的几本电子书： •Enabling the Industrial IoT Revolution，与Amphenol合作出版 在《Enabling the Industrial IoT Revolution》（推动工业物联网革命）这本书中，贸泽和Amphenol的行业专家对多个与工业物联网相关的主题提出了详细见解，包括工业数据中心、暖通空调 (HVAC) 系统、室内空气质量系统以及智能制造、智能自动化、建筑和采矿。 •How to Choose the Right Surge Protection Technology，与Bourns合作出版 电子设计的日益复杂导致了PCB密度不断增加。这些密度更高的电路板布局在雷电和电压浪涌等瞬态中更易受到损坏。Bourns联手贸泽推出的《How to Choose the Right Surge Protection Technology》（如何选择合适的浪涌保护技术）电子书，逐步指导工程师如何为特定应用选择正确的浪涌保护技术。 •7 Experts on LiDAR Design，与Maxim（现已被Analog Devices收购）合作出版 《7 Experts on LiDAR Design》（7位专家联手献策：如何设计LiDAR系统）电子书为设计工程师详细讲解了如何在满足应用性能需求的同时打造更轻、更小的设备。该电子书为设计人员提供了LiDAR创新所需的解决方案，以及MAX40025和MAX40026单路比较器与MAX40027双路比较器等产品信息。",
-    "time_sent_pair": {},
-    "relation": [
-      {
-        "link1": "L1",
-        "link2": "L2",
-        "type": "合作"
-      },
-      {
-        "link1": "L1",
-        "link2": "L3",
-        "type": "合作"
-      },
-      {
-        "link1": "L1",
-        "link2": "L4",
-        "type": "合作"
-      },
-      {
-        "link1": "L4",
-        "link2": "L5",
-        "type": "从属"
-      }
-    ],
-    "entityLink": {
-      "L0": {
-        "len": 1,
-        "type": "时间",
-        "link": [
-          {
-            "type": "时间",
-            "start": "",
-            "end": "",
-            "text": "2021年12月29日",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L1": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "贸泽电子",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L2": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "Amphenol Corporation",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L3": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "Bourns",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L4": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "Maxim Integrated®",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L5": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "Analog Devices",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L6": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "MAX40025",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L7": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "MAX40026单路比较器",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L8": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "MAX40027双路比较器",
-            "sent_time": ""
-          }
-        ]
-      }
-    },
-    "image": [],
-    "video_id": "2593",
-    "video_title": "",
-    "lang": "english"
-  },
-  {
-    "doc": "russia_2 | Автор «Игры престолов» Джордж Мартин и другие авторы бестселлеров подали коллективный иск против OpenAI. Они обвиняют технологический стартап в нарушении их авторских прав для создания генеративного ИИ-чатбота ChatGPT.|Автор «Игры престолов» Джордж Р. Р. Мартин прибыл на автограф-сессию во Францию в 2014 г., где его ждали более тысячи поклонников. AFPПисатели обвиняют ИИ в «воровстве».Автор «Игры престолов» Джордж Мартин и другие писатели авторы бестселлеров подали коллективный иск против OpenAI. Они|технологический стартап в нарушении их авторских прав для создания генеративного ИИ-чатбота ChatGPT.РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ Гильдия авторов, представляющая интересы писателей, и несколько романистов, включая Мартина, Джона Гришема и Джоди Пикоулт, обвинили компанию OpenAI в том, что она «без разрешения» использовала их книги для обучения «больших языковых моделей» в том числе ChatGPT, способных создавать текстовые ответы на основе простых запросов, говорится в иске.«И в основе этих алгоритмов лежит систематическое воровство в огромных масштабах», — говорится в иске, поданном во вторник в федеральный суд Нью-Йорка.Художники, организации и программисты уже подали множество других исков против OpenAI и ее конкурентов, утверждая, что их работы были украдены.|Unsplash.com РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ Истцы пишут, что языковые модели «ставят под угрозу возможность писателей-фантастов зарабатывать на жизнь, поскольку эти модели позволяют любому человеку автоматически и бесплатно (или очень дешево) генерировать тексты, за создание которых в противном случае пришлось бы платить писателям», — говорится в иске, поданном 19 сентября.ChatGPT может быть использован для создания «производных произведений», имитирующих стиль писателей, утверждают писатели.«Без защищенных авторским правом произведений истцов, на которых можно ;обучать; языковые модели, у ответчиков не было бы коммерческого продукта. С его помощью можно нанести ущерб — или даже узурпировать — произведения этих профессиональных авторов», — говорится в жалобе. — «Таким образом, копирование произведений писателей делает их источником саморазрушения».РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ Гильдия авторов добивается запрета на использование книг, защищенных авторским правом, для разработки языковых моделей «без прямого разрешения». Писатели также требуют возмещения ущерба.Компания OpenAI использовала горы текстов, найденных в Интернете, для работы своего чат-бота, но не уточнила, какие именно сайты и произведения были использованы.После успеха ChatGPT в прошлом году было подано несколько жалоб, в том числе от компьютерных инженеров, на компании OpenAI, ее основного инвестора Microsoft и платформу GitHub.В январе художники подали коллективный иск против DreamUp, Midjourney и Stable Diffusion — трех моделей ИИ, генерирующих изображения на основе произведений искусства, найденных в Интернете.В этом месяце компания Microsoft объявила о том, что будет обеспечивать правовую защиту клиентов, которым предъявлены иски о нарушении авторских прав на контент, созданный ее инструментами искусственного интеллекта.",
-    "time_sent_pair": {},
-    "relation": [
-      {
-        "link1": "L1",
-        "link2": "L6",
-        "type": "研发"
-      },
-      {
-        "link1": "L5",
-        "link2": "L1",
-        "type": "管理"
-      },
-      {
-        "link1": "L5",
-        "link2": "L7",
-        "type": "拥有"
-      },
-      {
-        "link1": "L6",
-        "link2": "L12",
-        "type": "采用"
-      },
-      {
-        "link1": "L6",
-        "link2": "L13",
-        "type": "采用"
-      },
-      {
-        "link1": "L14",
-        "link2": "L15",
-        "type": "采用"
-      },
-      {
-        "link1": "L11",
-        "link2": "L15",
-        "type": "采用"
-      },
-      {
-        "link1": "L10",
-        "link2": "L15",
-        "type": "采用"
-      },
-      {
-        "link1": "L6",
-        "link2": "L15",
-        "type": "采用"
-      }
-    ],
-    "entityLink": {
-      "L0": {
-        "len": 1,
-        "type": "人员",
-        "link": [
-          {
-            "type": "人员",
-            "start": "",
-            "end": "",
-            "text": "Джордж Мартин",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L1": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "OpenAI",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L2": {
-        "len": 1,
-        "type": "人员",
-        "link": [
-          {
-            "type": "人员",
-            "start": "",
-            "end": "",
-            "text": "Джона Гришема",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L3": {
-        "len": 1,
-        "type": "人员",
-        "link": [
-          {
-            "type": "人员",
-            "start": "",
-            "end": "",
-            "text": "Джоди Пикоулт",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L4": {
-        "len": 1,
-        "type": "机构",
-        "link": [
-          {
-            "type": "机构",
-            "start": "",
-            "end": "",
-            "text": "федеральный суд Нью-Йорка",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L5": {
         "len": 1,
         "type": "企业",
         "link": [
@@ -914,33 +1588,59 @@
           }
         ]
       },
-      "L6": {
+      "L25": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
-            "text": "ChatGPT",
+            "text": "HAVI",
             "sent_time": ""
           }
         ]
       },
-      "L7": {
+      "L26": {
         "len": 1,
-        "type": "产品",
+        "type": "人员",
         "link": [
           {
-            "type": "产品",
+            "type": "人员",
             "start": "",
             "end": "",
-            "text": "GitHub",
+            "text": "Jonathan Klein",
             "sent_time": ""
           }
         ]
       },
-      "L8": {
+      "L27": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Getty Images",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L28": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Klein",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L29": {
         "len": 1,
         "type": "时间",
         "link": [
@@ -948,177 +1648,298 @@
             "type": "时间",
             "start": "",
             "end": "",
-            "text": "19 сентября",
+            "text": "1995",
             "sent_time": ""
           }
         ]
       },
-      "L10": {
+      "L31": {
         "len": 1,
-        "type": "产品",
+        "type": "人员",
         "link": [
           {
-            "type": "产品",
+            "type": "人员",
             "start": "",
             "end": "",
-            "text": "Midjourney",
+            "text": "Olly Downs",
             "sent_time": ""
           }
         ]
       },
-      "L11": {
+      "L33": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
-            "text": "Stable Diffusion",
+            "text": "Curinos",
             "sent_time": ""
           }
         ]
       },
-      "L12": {
+      "L34": {
         "len": 1,
-        "type": "技术",
+        "type": "地点",
         "link": [
           {
-            "type": "技术",
+            "type": "地点",
             "start": "",
             "end": "",
-            "text": "языковых моделей",
+            "text": "New York City",
             "sent_time": ""
           }
         ]
       },
-      "L13": {
+      "L35": {
         "len": 1,
-        "type": "技术",
+        "type": "人员",
         "link": [
           {
-            "type": "技术",
+            "type": "人员",
             "start": "",
             "end": "",
-            "text": "обучения",
+            "text": "Downs",
             "sent_time": ""
           }
         ]
       },
-      "L14": {
+      "L36": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
-            "text": "DreamUp",
+            "text": "BARK",
             "sent_time": ""
           }
         ]
       },
-      "L15": {
+      "L37": {
         "len": 1,
-        "type": "技术",
+        "type": "企业",
         "link": [
           {
-            "type": "技术",
+            "type": "企业",
             "start": "",
             "end": "",
-            "text": "ИИ",
+            "text": "Zulily",
             "sent_time": ""
           }
         ]
-      }
-    },
-    "image": [],
-    "video_id": "442",
-    "video_title": "",
-    "lang": "russian"
-  },
-  {
-    "doc": "russia_3 | Ученые университета Пенсильвании разработали «нейрон», который успешно интегрирует сенсорную информацию как визуальную так и тактильную. Робот, снабженный таким «нейроном», может одновременно видеть и осязать.|Группа исследователей из Университета штата Пенсильвания разработала искусственный нейрон, способный обрабатывать визуальные и тактильные сенсорные сигналы одновременно. Tyler Henderson/Penn StateВ мозге человека информация обрабатывается не последовательно — сначала визуальная, потом тактильная — а сразу. Такую схему смогли реализовать ученые в новом «нейроне».Ощупывание кошачьей шерсти может дать некоторую информацию, но увидеть животное — это решающий момент: кто же перед нами? Домашняя кошка или лев? Наши органы чувств взаимодействуют друг с другом для получения полного представления, особенно если отдельные сигналы очень слабые. Информация от всех сенсоров значит больше, чем их простая сумма. Роботы, как правило, следуют более простому принципу сложения, но исследователи из Университета Пенсильвании|биологическую концепцию, разработав первый искусственный мультисенсорный нейрон.РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ Соавтор работы Саптарши Даса|: «Роботы принимают решения в зависимости от окружающей среды, но их датчики, как правило, не взаимодействуют друг с другом. Решение может быть принято с помощью блока обработки данных от всех датчиков, но является ли такой подход эффективным? В человеческом мозге одно чувство влияет на другое и позволяет лучше оценивать ситуацию».Например, в автомобиле один датчик сканирует препятствия, а другой определяет освещенность, чтобы регулировать интенсивность света фар. По отдельности эти датчики передают информацию на центральный блок, который затем дает команду автомобилю затормозить или отрегулировать свет фар. По мнению Даса, если позволить датчикам напрямую взаимодействовать друг с другом, это будет более эффективно с точки зрения энергопотребления и скорости работы, особенно если входные сигналы от обоих датчиков слабые.РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ «Биология позволяет маленьким организмам процветать в условиях ограниченных ресурсов, минимизируя при этом потребление энергии», — говорит Дас. — «Требования к различным датчикам зависят от условий — в темном лесу вы будете больше полагаться на слух, чем на зрение, но мы почти никогда не принимаем решений, основываясь только на одном чувстве. Мы полностью ощущаем окружающую обстановку, и принятие решений основано на интеграции того, что мы видим, слышим, осязаем, обоняем и т.д. В биологии органы чувств развивались вместе, а в искусственном интеллекте — по отдельности. В данной работе мы стремимся объединить датчики и имитировать работу нашего мозга».Схема работы нейрона, объединяющего визуальный сенсор и тактильный.РЕКЛАМА – ПРОДОЛЖЕНИЕ НИЖЕ Исследователи изготовили мультисенсорный нейрон, соединив тактильный датчик с фототранзистором на основе монослоя дисульфида молибдена — соединения, обладающего уникальными электрическими и оптическими характеристиками. Такой нейрон генерирует электрические импульсы, обрабатывающие информацию, которая интегрирует как визуальные, так и тактильные сигналы.Дас пояснил, что искусственная система мультисенсорных нейронов может повысить эффективность сенсорных технологий, открывая путь к более экологичному использованию ИИ. В результате роботы, беспилотники и самоуправляемые автомобили смогут более эффективно ориентироваться в окружающей среде, потребляя при этом меньше энергии.Соавтор работы Эндрю Панноне говорит: «Мы рассматривали только два органа чувств. Мы работаем над тем, чтобы определить подходящий сценарий для включения остальных и посмотреть, какие преимущества это дает».",
-    "time_sent_pair": {},
-    "relation": [
-      {
-        "link1": "L1",
-        "link2": "L0",
-        "type": "雇佣"
       },
-      {
-        "link1": "L2",
-        "link2": "L0",
-        "type": "雇佣"
+      "L38": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "ZIllow Group",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L0",
-        "link2": "L5",
-        "type": "研发"
+      "L39": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Amplero",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L4",
-        "link2": "L5",
-        "type": "采用"
+      "L40": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "Seattle",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L1",
-        "link2": "L5",
-        "type": "研发"
+      "L41": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Larry Hryb",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L6",
-        "link2": "L5",
-        "type": "采用"
+      "L42": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Microsoft",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L6",
-        "link2": "L7",
-        "type": "别名"
+      "L43": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Xbox",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L8",
-        "link2": "L9",
-        "type": "别名"
+      "L44": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Unity",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L8",
-        "link2": "L11",
-        "type": "别名"
+      "L46": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Hryb",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L10",
-        "link2": "L5",
-        "type": "采用"
+      "L47": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Major Nelson",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L5",
-        "link2": "L12",
-        "type": "采用"
+      "L48": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Pipe17",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L5",
-        "link2": "L13",
-        "type": "采用"
+      "L49": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Ryan Powell",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L2",
-        "link2": "L1",
-        "type": "同事"
+      "L51": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Powell",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L5",
-        "link2": "L14",
-        "type": "采用"
+      "L52": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Ryder System",
+            "sent_time": ""
+          }
+        ]
       },
-      {
-        "link1": "L15",
-        "link2": "L5",
-        "type": "采用"
-      }
-    ],
-    "entityLink": {
-      "L0": {
+      "L53": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Whiplash",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L54": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Easyship",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L55": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Chris Green",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L56": {
         "len": 1,
         "type": "机构",
         "link": [
@@ -1126,46 +1947,1321 @@
             "type": "机构",
             "start": "",
             "end": "",
-            "text": "университета Пенсильвании",
+            "text": "Pacific Northwest Hydrogen Association",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L58": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "Washington state Department of Commerce",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L59": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Juan Barraza",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L60": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Barraza",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L61": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "Latino Founders",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L63": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "VertueLab",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L64": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Andrew Coté",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L65": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Brinc Drones",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L66": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "Business Executives for National Security",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L67": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "Washington D.C.",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L68": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Karina Martija-Harris",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L70": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Washington Maritime Blue",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L71": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "National Security Innovation Network",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "11205",
+    "video_title": "",
+    "lang": "english"
+  },
+  {
+    "doc": "Eric Berlinberg spent more than 10 years at Amazon. (LinkedIn Photo)\n\n\n\nEric Berlinberg, who spent the past decade at Amazon and was a key leader on the company's Prime Air team, is moving on from the Seattle tech giant for a new role at Torc Robotics, a subsidiary of Daimler Truck that is developing autonomous vehicle technology for self-driving trucks.\n\n\n\nBerlinberg led program management, business intelligence, and more for Prime Air, the drone delivery division of Amazon. \n\n\n\n\"Almost a decade ago, I stumbled into one of the most incredible professional opportunities: bringing drone delivery to the world,\" Berlinberg wrote on LinkedIn. \"As one of the first members of this project, it has been inspiring to be at the forefront of this development. Every day, I've learned from brilliant engineers, aerodynamicists, and aviators. The attention to safety at all levels, and the unwavering focus on building a safe and scalable delivery system, have always impressed me.\"\n\n\n\nBerlinberg previously was a director at Manhattan Creative Group and a product manager at Coca-Cola. \n\n\n\nHe'll lead program management at Torc, which spun out of Virginia Tech nearly two decades ago and is focused on enabling trucks to drive autonomously between hubs in the U.S.\n\n\n\nAmazon has spent years developing drones that can deliver packages to customers. It has missed some projections for customer deliveries but is adding more delivery sites across the U.S. and last month won a key approval from the FAA to fly the drones beyond visual line of sight. \n\n\n\nOther key personnel changes across the Pacific Northwest tech ecosystem:\n\n\n\n— John Montgomery, who spent more than 26 years at Microsoft and was most recently a corporate vice president, joined Meta as vice president of product management on the company's infrastructure team. \"After 25+ years at Microsoft, it's invigorating to be starting something new!\" he wrote on LinkedIn.\n\n\n\n— Longtime marketing executive Jay Wampold joined Buildkite, a Perth, Australia-based software company. Wampold previously held marketing leadership roles at FasterBetter, Pulumi, Commerce IQ, and Cloudability. Former Chef CEO Barry Crist was named board chair of Buildkite last year.\n\n\n\n— Michael Vogelsong, who co-founded Amazon's Deep Learning Technologies team, joined Collaborative Robotics, the Santa Clara, Calif., company founded in 2022 by former Amazon Robotics VP and Distinguished Engineer Brad Porter that recently opened an office in Seattle.\n\n\n\n— Katherine Bajjaliya Keileh joined Seattle-based risk intelligence startup Pendulum as head of sales. Keileh previously worked for One and EverFi.\n\n\n\n— Whitney Ellison, former director of brand activation at Alaska Airlines, joined Starbucks as senior manager of brand marketing (coffee & culture). She previously worked at Hightower and CenturyLink. \n\n\n\n— Aaron Kornblum is departing his role as global general counsel at BYJU'S Learning, part of the India-based edtech company BYJU. Kornblum was a former Microsoft manager and former general counsel at Bungie.\n\n\n\n— Mark Musburger is stepping down as CFO of Seattle-area marketing software company Banzai. Musburger joined the company in 2022; Banzai went public late last year. He previously worked at Avalara, Identity Digital, and Corvee.",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L2",
+        "link2": "L1",
+        "type": "位于"
+      },
+      {
+        "link1": "L0",
+        "link2": "L1",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L3",
+        "link2": "L4",
+        "type": "从属"
+      },
+      {
+        "link1": "L0",
+        "link2": "L3",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L5",
+        "link2": "L0",
+        "type": "别名"
+      },
+      {
+        "link1": "L5",
+        "link2": "L7",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L5",
+        "link2": "L9",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L10",
+        "link2": "L3",
+        "type": "别名"
+      },
+      {
+        "link1": "L10",
+        "link2": "L11",
+        "type": "从属"
+      },
+      {
+        "link1": "L13",
+        "link2": "L1",
+        "type": "研发"
+      },
+      {
+        "link1": "L17",
+        "link2": "L18",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L17",
+        "link2": "L20",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L22",
+        "link2": "L23",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L24",
+        "link2": "L23",
+        "type": "位于"
+      },
+      {
+        "link1": "L25",
+        "link2": "L22",
+        "type": "别名"
+      },
+      {
+        "link1": "L25",
+        "link2": "L26",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L25",
+        "link2": "L27",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L25",
+        "link2": "L28",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L25",
+        "link2": "L29",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L31",
+        "link2": "L23",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L33",
+        "link2": "L34",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L33",
+        "link2": "L1",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L35",
+        "link2": "L34",
+        "type": "位于"
+      },
+      {
+        "link1": "L39",
+        "link2": "L34",
+        "type": "创办人"
+      },
+      {
+        "link1": "L39",
+        "link2": "L1",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L2",
+        "link2": "L41",
+        "type": "位于"
+      },
+      {
+        "link1": "L40",
+        "link2": "L41",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L45",
+        "link2": "L40",
+        "type": "别名"
+      },
+      {
+        "link1": "L45",
+        "link2": "L43",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L45",
+        "link2": "L44",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L46",
+        "link2": "L48",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L46",
+        "link2": "L49",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L46",
+        "link2": "L51",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L46",
+        "link2": "L52",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L55",
+        "link2": "L57",
+        "type": "从属"
+      },
+      {
+        "link1": "L53",
+        "link2": "L55",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L58",
+        "link2": "L53",
+        "type": "别名"
+      },
+      {
+        "link1": "L58",
+        "link2": "L18",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L58",
+        "link2": "L61",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L2",
+        "link2": "L64",
+        "type": "位于"
+      },
+      {
+        "link1": "L62",
+        "link2": "L64",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L65",
+        "link2": "L62",
+        "type": "别名"
+      },
+      {
+        "link1": "L65",
+        "link2": "L68",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L65",
+        "link2": "L69",
+        "type": "雇佣"
+      },
+      {
+        "link1": "L65",
+        "link2": "L70",
+        "type": "雇佣"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Eric Berlinberg",
             "sent_time": ""
           }
         ]
       },
       "L1": {
         "len": 1,
-        "type": "人员",
+        "type": "企业",
         "link": [
           {
-            "type": "人员",
+            "type": "企业",
             "start": "",
             "end": "",
-            "text": "Саптарши Даса",
+            "text": "Amazon",
             "sent_time": ""
           }
         ]
       },
       "L2": {
         "len": 1,
-        "type": "人员",
+        "type": "地点",
         "link": [
           {
-            "type": "人员",
+            "type": "地点",
             "start": "",
             "end": "",
-            "text": "Эндрю Панноне",
+            "text": "Seattle",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Torc Robotics",
             "sent_time": ""
           }
         ]
       },
       "L4": {
         "len": 1,
-        "type": "技术",
+        "type": "企业",
         "link": [
           {
-            "type": "技术",
+            "type": "企业",
             "start": "",
             "end": "",
-            "text": "тактильные",
+            "text": "Daimler Truck",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L5": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Berlinberg",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L7": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Manhattan Creative Group",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L9": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Coca-Cola",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L10": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Torc",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L11": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "Virginia Tech",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L12": {
+        "len": 1,
+        "type": "国家",
+        "link": [
+          {
+            "type": "国家",
+            "start": "",
+            "end": "",
+            "text": "U.S.",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L13": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "drones",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L14": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": " FAA",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L17": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "John Montgomery",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L18": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Microsoft",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L20": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Meta",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L22": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Jay Wampold",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L23": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Buildkite",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L24": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "Perth, Australia",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L25": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Wampold",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L26": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "FasterBetter",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L27": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Pulumi",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L28": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Commerce IQ",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L29": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Cloudability",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L31": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Barry Crist",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L33": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Michael Vogelsong",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L34": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Collaborative Robotics",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L35": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "Santa Clara, Calif.",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L37": {
+        "len": 1,
+        "type": "时间",
+        "link": [
+          {
+            "type": "时间",
+            "start": "",
+            "end": "",
+            "text": "2022",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L39": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Brad Porter",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L40": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Katherine Bajjaliya Keileh",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L41": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Pendulum",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L43": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "One",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L44": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "EverFi",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L45": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Keileh",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L46": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Whitney Ellison",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L48": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Alaska Airlines",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L49": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Starbucks",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L51": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Hightower",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L52": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "CenturyLink",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L53": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Aaron Kornblum",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L55": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "BYJU'S Learning",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L56": {
+        "len": 1,
+        "type": "国家",
+        "link": [
+          {
+            "type": "国家",
+            "start": "",
+            "end": "",
+            "text": "India",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L57": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "BYJU",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L58": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Kornblum",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L61": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Bungie",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L62": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Mark Musburger",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L64": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Banzai",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L65": {
+        "len": 1,
+        "type": "人员",
+        "link": [
+          {
+            "type": "人员",
+            "start": "",
+            "end": "",
+            "text": "Musburger",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L67": {
+        "len": 1,
+        "type": "时间",
+        "link": [
+          {
+            "type": "时间",
+            "start": "",
+            "end": "",
+            "text": "late last year",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L68": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Avalara",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L69": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Identity Digital",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L70": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Corvee",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "11215",
+    "video_title": "",
+    "lang": "english"
+  },
+  {
+    "doc": "В США раскрыли стоимость новейших процессоров AMD Ryzen 9000X. Сама AMD пока хранит молчание, но новыми данными поделился работник большого ретейлера BestBuy. Он подтвердил старт продаж новых CPU 31 июля. Также по словам работника компании, запас Ryzen 7 9700X и Ryzen 9 9900X большой, а вот 6-ядерных Ryzen 5 9600X и флагманских 16-ядерных Ryzen 9 9950X – мало. Цены выглядят очень заманчиво, так как CPU нового поколения окажутся сильно дешевле нынешних – линейки Ryzen 7000X. Например, цена Ryzen 9 9950X – 500 долларов против 700 долларов, что просят за Ryzen 9 7950X. При рекомендованной цене 400 долларов Ryzen 9 9900X окажется на 150 долларов дешевле Ryzen 9 7900X. Ryzen 7 9700X будет дешевле Ryzen 7 7700X на 100 долларов (300 долларов вместо 400), а Ryzen 5 9600X будет на 70 долларов дешевле Ryzen 5 7600X (230 долларов вместо 300 долларов). С такими ценами AMD окажет сильное давление на Intel. И в особенности это касается топовых Core i9-14900K и Core i9-14900KS, которые дороже, горячее и имеют проблемы со стабильностью работы.",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L8",
+        "link2": "L1",
+        "type": "包含"
+      },
+      {
+        "link1": "L9",
+        "link2": "L1",
+        "type": "包含"
+      },
+      {
+        "link1": "L6",
+        "link2": "L1",
+        "type": "包含"
+      },
+      {
+        "link1": "L1",
+        "link2": "L7",
+        "type": "包含"
+      },
+      {
+        "link1": "L4",
+        "link2": "L14",
+        "type": "研发"
+      },
+      {
+        "link1": "L4",
+        "link2": "L15",
+        "type": "研发"
+      },
+      {
+        "link1": "L5",
+        "link2": "L10",
+        "type": "包含"
+      },
+      {
+        "link1": "L5",
+        "link2": "L11",
+        "type": "包含"
+      },
+      {
+        "link1": "L5",
+        "link2": "L12",
+        "type": "包含"
+      },
+      {
+        "link1": "L5",
+        "link2": "L13",
+        "type": "包含"
+      },
+      {
+        "link1": "L2",
+        "link2": "L0",
+        "type": "从属"
+      },
+      {
+        "link1": "L0",
+        "link2": "L4",
+        "type": "从属"
+      },
+      {
+        "link1": "L18",
+        "link2": "L21",
+        "type": "从属"
+      },
+      {
+        "link1": "L18",
+        "link2": "L33",
+        "type": "从属"
+      },
+      {
+        "link1": "L33",
+        "link2": "L21",
+        "type": "竞争"
+      },
+      {
+        "link1": "L33",
+        "link2": "L34",
+        "type": "研发"
+      },
+      {
+        "link1": "L35",
+        "link2": "L33",
+        "type": "研发"
+      },
+      {
+        "link1": "L19",
+        "link2": "L22",
+        "type": "包含"
+      },
+      {
+        "link1": "L22",
+        "link2": "L20",
+        "type": "包含"
+      },
+      {
+        "link1": "L22",
+        "link2": "L24",
+        "type": "包含"
+      },
+      {
+        "link1": "L22",
+        "link2": "L25",
+        "type": "包含"
+      },
+      {
+        "link1": "L22",
+        "link2": "L27",
+        "type": "包含"
+      },
+      {
+        "link1": "L21",
+        "link2": "L19",
+        "type": "研发"
+      },
+      {
+        "link1": "L21",
+        "link2": "L20",
+        "type": "研发"
+      },
+      {
+        "link1": "L29",
+        "link2": "L22",
+        "type": "包含"
+      },
+      {
+        "link1": "L30",
+        "link2": "L22",
+        "type": "包含"
+      },
+      {
+        "link1": "L24",
+        "link2": "L22",
+        "type": "包含"
+      },
+      {
+        "link1": "L28",
+        "link2": "L22",
+        "type": "包含"
+      },
+      {
+        "link1": "L31",
+        "link2": "L22",
+        "type": "包含"
+      },
+      {
+        "link1": "L32",
+        "link2": "L22",
+        "type": "包含"
+      },
+      {
+        "link1": "L26",
+        "link2": "L22",
+        "type": "包含"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "国家",
+        "link": [
+          {
+            "type": "国家",
+            "start": "",
+            "end": "",
+            "text": "США",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L1": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "AMD Ryzen 9000X",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L2": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "AMD",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "BestBuy",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Intel",
             "sent_time": ""
           }
         ]
@@ -1178,33 +3274,33 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "мультисенсорный нейрон",
+            "text": "Ryzen 7000X",
             "sent_time": ""
           }
         ]
       },
       "L6": {
         "len": 1,
-        "type": "技术",
+        "type": "产品",
         "link": [
           {
-            "type": "技术",
+            "type": "产品",
             "start": "",
             "end": "",
-            "text": "искусственном интеллекте",
+            "text": "Ryzen 5 9600X",
             "sent_time": ""
           }
         ]
       },
       "L7": {
         "len": 1,
-        "type": "技术",
+        "type": "产品",
         "link": [
           {
-            "type": "技术",
+            "type": "产品",
             "start": "",
             "end": "",
-            "text": "ИИ",
+            "text": "Ryzen 9 9950X",
             "sent_time": ""
           }
         ]
@@ -1217,7 +3313,7 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "датчики",
+            "text": "Ryzen 7 9700X",
             "sent_time": ""
           }
         ]
@@ -1230,20 +3326,20 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "сенсоров",
+            "text": "Ryzen 9 9900X",
             "sent_time": ""
           }
         ]
       },
       "L10": {
         "len": 1,
-        "type": "技术",
+        "type": "产品",
         "link": [
           {
-            "type": "技术",
+            "type": "产品",
             "start": "",
             "end": "",
-            "text": "визуальные",
+            "text": "Ryzen 9 7950X",
             "sent_time": ""
           }
         ]
@@ -1256,192 +3352,64 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "«нейрон»",
+            "text": "Ryzen 9 7900X",
             "sent_time": ""
           }
         ]
       },
       "L12": {
         "len": 1,
-        "type": "技术",
+        "type": "产品",
         "link": [
           {
-            "type": "技术",
+            "type": "产品",
             "start": "",
             "end": "",
-            "text": "фототранзистором",
+            "text": "Ryzen 7 7700X",
             "sent_time": ""
           }
         ]
       },
       "L13": {
         "len": 1,
-        "type": "技术",
+        "type": "产品",
         "link": [
           {
-            "type": "技术",
+            "type": "产品",
             "start": "",
             "end": "",
-            "text": "сенсорных технологий",
+            "text": "Ryzen 5 7600X",
             "sent_time": ""
           }
         ]
       },
       "L14": {
         "len": 1,
-        "type": "技术",
+        "type": "产品",
         "link": [
           {
-            "type": "技术",
+            "type": "产品",
             "start": "",
             "end": "",
-            "text": "дисульфида молибдена",
+            "text": "Core i9-14900K",
             "sent_time": ""
           }
         ]
       },
       "L15": {
         "len": 1,
-        "type": "技术",
+        "type": "产品",
         "link": [
           {
-            "type": "技术",
+            "type": "产品",
             "start": "",
             "end": "",
-            "text": "тактильный датчик",
-            "sent_time": ""
-          }
-        ]
-      }
-    },
-    "image": [],
-    "video_id": "443",
-    "video_title": "",
-    "lang": "russian"
-  },
-  {
-    "doc": "spanish_1 | unos sensores entretejidos al cabello permitirán que cualquier mujer que se encuentre en una situación dificil pueda informar de manera imperceptible a través d | hairway: controla las apps de tu smartphone con el pelo | atenea garcía13 abr. 2015 01h.enlace copiadolas situaciones de peligro para mujeres a día de hoy siguen siendo una amenaza grande. para ello, la tecnología se pone las pilas y crea dispositivos como este: unos sensores inteligentes enganchados al cabello que cuando se tocan envían mensajes, toman fotos o graban en el smartphone.diversos gadgets comienzan a apostar por salvaguardar la seguridad personal, y en especial la de las mujeres.si hace poco conocíamos | revolar un dispositivo en forma de botón | para pedir auxilio en caso de ataque sexual, ahora aparecen estos sensores a través de los que podrás controlar tu móvil de manera discreta solo con tocarte el pelo.la idea nace de un concepto principal: la discreción en una situación de peligro. a través de estos sensores se podrán realizar diferentes funciones dentro de las aplicaciones de un móvil sin que nadie se de cuenta.en este vídeo podéis ver cómo funciona hairway, la tecnología que controla tu smartphone con extensiones capilares:estos sensores reciben el nombre de hairway y son capaces de abrir una aplicación sin alertar a nadie y sin comprometer la seguridad de quien lo hace.han sido diseñados por un katia vega, una investigadora de la universidad católica de río de janeiro. exactamente se trata de unos sensores tejidos con alambre en extensiones de pelo que se podrán teñir en función del color de la propietaria.los sensores de hairway acompañados de una horquilla de pelo con un módulo bluetooth y un microcontrolador arduino permiten que con solo tocar el cabello estas mujeres puedan comunicarse con su teléfono, incluso hacer fotos o grabar voz.agregamos nuevas funcionalidades a las extensiones de cabello, convirtiéndolo en un dispositivo sin fisuras que reconoce comportamientos ocultos para cualquier observador externo. escribió vega en su página | .hairware actúa como un sensor táctil que detecta variaciones en la forma de tocar el pelo y que utiliza algoritmos de aprendizaje automático con el fin de reconocer la intención del usuario.esto significa que en función de la forma de tocar el cabello lo que se podrá comunicar a través del móvil variará. un toque podría abrir la aplicación; un segundo contacto, o un repaso de la extensión de pelo podrían activar alguna función de las apps, como enviar un mensaje a un amigo o tomar una fotografía discreta.un nuevo dispositivo que aunque aún no sabemos cuando se comercializará, ya ha diso presentado en la | conferecia internacional de interfaz de usuario de 2015. | controla tu móvil de manera discreta solo con tocarte el pelo google pixel 8 pro xiaomi 13t pro honor pad x9 análisis y opinión fútbol iptv apple watch series 9 dias naranjas amazon axel springer neutra en carbono ,",
-    "time_sent_pair": {},
-    "relation": [
-      {
-        "link1": "L1",
-        "link2": "L2",
-        "type": ""
-      },
-      {
-        "link1": "L1",
-        "link2": "L3",
-        "type": ""
-      },
-      {
-        "link1": "L0",
-        "link2": "L4",
-        "type": "从属"
-      },
-      {
-        "link1": "L0",
-        "link2": "L1",
-        "type": "研发"
-      },
-      {
-        "link1": "L7",
-        "link2": "L1",
-        "type": "时间"
-      }
-    ],
-    "entityLink": {
-      "L0": {
-        "len": 1,
-        "type": "人员",
-        "link": [
-          {
-            "type": "人员",
-            "start": "",
-            "end": "",
-            "text": "katia vega",
+            "text": "Core i9-14900KS",
             "sent_time": ""
           }
         ]
       },
-      "L1": {
-        "len": 1,
-        "type": "技术",
-        "link": [
-          {
-            "type": "技术",
-            "start": "",
-            "end": "",
-            "text": "hairway",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L2": {
-        "len": 1,
-        "type": "技术",
-        "link": [
-          {
-            "type": "技术",
-            "start": "",
-            "end": "",
-            "text": "unos sensores entretejidos al cabello",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L3": {
-        "len": 1,
-        "type": "技术",
-        "link": [
-          {
-            "type": "技术",
-            "start": "",
-            "end": "",
-            "text": "unos sensores inteligentes enganchados al cabello",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L4": {
-        "len": 1,
-        "type": "机构",
-        "link": [
-          {
-            "type": "机构",
-            "start": "",
-            "end": "",
-            "text": "la universidad católica de río de janeiro",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L5": {
-        "len": 1,
-        "type": "地点",
-        "link": [
-          {
-            "type": "地点",
-            "start": "",
-            "end": "",
-            "text": "la | conferecia internacional de interfaz de usuario",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L6": {
-        "len": 1,
-        "type": "地点",
-        "link": [
-          {
-            "type": "地点",
-            "start": "",
-            "end": "",
-            "text": "hace",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L7": {
+      "L17": {
         "len": 1,
         "type": "时间",
         "link": [
@@ -1449,42 +3417,401 @@
             "type": "时间",
             "start": "",
             "end": "",
-            "text": "2015",
+            "text": "31 июля",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L18": {
+        "len": 1,
+        "type": "国家",
+        "link": [
+          {
+            "type": "国家",
+            "start": "",
+            "end": "",
+            "text": "США",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L19": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "процессоров",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L20": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "AMD Ryzen 9000X",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L21": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "AMD",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L22": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "CPU",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L23": {
+        "len": 1,
+        "type": "时间",
+        "link": [
+          {
+            "type": "时间",
+            "start": "",
+            "end": "",
+            "text": "31 июля",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L24": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 7 9700X",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L25": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 9 9900X",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L26": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 5 9600X",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L27": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 9 9950X",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L28": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 7000X",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L29": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 9 7950X",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L30": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 9 7900X",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L31": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 7 7700X",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L32": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 5 7600X",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L33": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Intel",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L34": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Core i9-14900K",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L35": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Core i9-14900KS",
             "sent_time": ""
           }
         ]
       }
     },
     "image": [],
-    "video_id": "341",
+    "video_id": "12038",
     "video_title": "",
-    "lang": "spanish"
+    "lang": "russian"
   },
   {
-    "doc": "spanish_2 | en este artículo te mostramos las maneras que tenemos ahora mismo para saltarnos la restricción del tpm para poder instalar windows 11 en nuestro ordenador. | cómo saltarse la protección tpm e instalar windows 11 en cualquier ordenador | 14 ago. 2022 20h.enlace copiadoexisten varias formas por las que podremos saltarnos la protección tpm e instalar el sistema operativo windows 11 en cualquier ordenador. te las contamos para que puedas aprovecharlas.como seguro que ya sabes, para poder | , microsoft colocó una serie de requisitos de hardware bastante estrictos, como puede ser una | .con esta medida, ordenadores antiguos se ven abocados a seguir con | , ya que la nueva versión del sistema operativo no se podrá instalar por no cumplir los requisitos que, desde la marca con sede en redmond, ha impuesto.pero en informática, nada es tan efectivo como para que no se pueda modificar de alguna manera. esto significa que hay varias formas para evitar que requisitos como el tpm | u otros, pidan la extracción de la nueva versión de windows.lo mejor de todo es que tenemos varias formas diferentes para realizar este proceso, lo que significa que cada persona lo hará con la que resulte más fácil o efectiva, ya que tendremos la posibilidad de modificar registro en medio de la configuración, crear un disco de instalación usb o utilizar el software llamado rufus.incluso la propia microsoft también ha creado un truco de registro oficial para poder eludir los requisitos del tpm 2.0 y cpu. lo que ocurre es que con este método aún debes cumplir el tener, por lo menos, tpm 1.2, lo que significa que, si no tienes este chip, de nada te sirve lo que ofrece la empresa americana.sea cual sea la forma por la que queremos conseguir que el tpm no sea ningún impedimento para poder instalar | , lo vas a tener detallado a continuación, para que todos los procesos sean los más sencillos posibles de realizar.métodos para instalar windows sin tpm: | mediante el registro de la instalación gracias a rufus desde windows update oficial de microsoft | mediante el registro de la instalación | si tenemos un disco de instalación normal o una iso con windows 11, podemos hacer que los requisitos del tpm y la ram ya no sean un impedimento. algo que debéis tener muy claro es que este sistema solo funciona en una instalación limpia.arrancamos desde su disco de instalación o desde la imagen iso de windows 11. presionamos las teclas mayús + f10 para iniciar el símbolo del sistema.ahora, dentro del registro debemos ir a la siguiente ruta: hkey_local_machine\\system\\setupcreamos una nueva clave de registro en configuración y le asignamos el nombre labconfig. si no sabes generarla es tan sencillo como hacer clic con el botón derecho del ratón en el panel derecho de la ventana y seleccionar nueva clave, para finalmente poner el nombre.dentro de labconfig, generamos valores dword llamados bypasstpmcheck y bypasssecureboot y establecemos sus valores en 1. la manera de crear un nuevo valor dword es haciendo clic derecho en la ventana derecha y seleccionando el nuevo valor dword (32 bits), para seguidamente asignar un nombre a la clave. después se hace doble clic para abrirla y configúrela en 1. si también queremos omitir el requisito de ram, agregamos valores dword para bypassramcheckcerramos regedit y el símbolo del sistema, para que a partir de ahora ya podamos continuar con su instalación de windows 11 normalmente. | rufus es un programa gratuito que permite generar un disco de instalación de windows 11 en una unidad flash usb configurándolo para que ya no nos soliciten los requisitos de tpm, ram y cpu.los únicos requisitos que tiene utilizar rufus son que la unidad flash usb debe de ser de 16 gb o más y que, al estar en una unidad usb, es más difícil de usar para instalar windows 11 en una máquina virtual donde un archivo iso sería ideal.los pasos para seguir son los siguientes: | y la instalamos en el ordenador.insertamos una memoria usb en blanco de 16 gb o más y luego abrimos rufus.seleccionamos el dispositivo usb en el que queremos instalar windows 11.debemos asegurarnos de que boot selection muestra disco o imagen iso y hacemos clic en descargar.seleccione windows 11, luego continuar, seguidamente elegimos la última versión y volvemos a pulsar en continuar.ahora debemos poner la edición y haga clic en continuar, para después elegir el idioma y pulsar de nuevo en continuar.es el momento de seleccionar la arquitectura (lo normal x64) y hacer clic en descargar. veremos cómo se abre una nueva ventana preguntando dónde guardar la imagen iso. lo guardamos en la carpeta de descargas, aunque también podemos descargar la imagen usando un navegador si queremos.hacemos clic en el menú desplegable imagen y seleccionamos instalación extendida de windows 11 para deshabilitar tpm, arranque seguro y el requisito de 8 gb de ram.volvemos a verificar que se haya seleccionado la unidad correcta y entonces hacemos clic en iniciar para comenzar la instalación.el proceso de escritura puede llevar algún tiempo, dependiendo de la unidad usb que utilicemos, pero cuando termine, la unidad se puede quitar y emplear para instalar windows 11 en un ordenador más antiguo o incluso en una máquina virtual. ahora instalamos o actualizamos a windows 11. debemos tener claro que ejecutaremos la configuración en la unidad usb, si estamos realizando una instalación que va a actualizar desde windows 10. mientras que arrancaremos desde la unidad si se va a hacer una instalación limpia. si tenemos problemas, puede deberse a que debemos deshabilitar el arranque seguro en la bios. | si para la instalación preferimos utilizar windows update, vamos a necesitar un método que ejecute la actualización sin que nos exija el tpm como requisito fundamental de la instalación.te mostramos como debes hacerlo: | fuente skip_tpm_check_on_dynamic_update.cmd en la herramienta github de creación de medios de aveyo.pulsamos en el botón copiar contenido sin procesar en la esquina superior derecha del cuadro de código.creamos un nuevo archivo en el escritorio y le asignamos el nombre skip_tpm_check.cmddebemos asegurarnos de que se pueden ver las extensiones de archivo y que la extensión del archivo es realmente .cmd, ya que si no es así no se ejecutará.abrimos skip_tpm.cmd para editarlo, usando el bloc de notas u otro editor de texto.pegamos el código que copiamos de github.guardamos y ejecutamos el archivo skip_tpm.cmd.debemos pulsar en sí cuando solicite el control de cuentas de usuario. ahora veremos un mensaje que dice que se ha instalado omitir tpm en la actualización dinámica. si vuelve a ejecutar el programa, desactivará la utilidad. windows update ahora debería poder actualizar nuestra compilación de windows 11 existente.además, incluso podremos actualizarlo de windows 10 a 11. | también windows proporcionó un truco para que se rebajaran un poco los requisitos de instalación de windows 11, permitiendo que ordenadores con tpm 1.2 también pudieran instalar el nuevo sistema operativo.la manera de hacerlo es esta:abrimos regedit.vamos hasta la ruta: hkey_local_machine\\system\\setup\\mosetup creamos un dword (32 bits) llamado allowupgradeswithunsupportedtpmorcpu (si no existe).establecemos allowupgradeswithunsupportedtpmorcpu en 1.cerramos regedit y reiniciamos el pc.ahora deberíamos poder actualizar a windows 11 desde windows 10 mediante el uso de medios de instalación.estas son las maneras que tenemos de saltarnos la restricción del tpm para poder instalar windows 11 en nuestro ordenador.utiliza la que veas que te sientes más cómodo y podrás disfrutar del nuevo sistema operativo. | honor pad x9, una tablet para todos los públicos que puede enganc | chip tpm 2.0 en windows 11 instalación windows 11 regedit rufus copiar código código github google pixel 8 pro xiaomi 13t pro honor pad x9 análisis y opinión ,",
+    "doc": "Большинство автовладельцев считают, что силовые агрегаты электромобилей по количеству технических проблем выгодно отличаются от своих предшественников — двигателей внутреннего сгорания (ДВС). Однако по результатам исследования некоммерческой организации Consumer Report, на деле все обстоит совершенно иначе: гибриды и полностью электрические автомобили демонстрируют гораздо меньшую надежность по сравнению с ДВС-моделями. В недавнем исследовании с участием 330 тыс. автомобилей были изучены 200 наиболее распространенных технических проблем. Рейтинг надежности каждого автомобиля определялся по шкале от 0 до 100.В результате, средний балл надежности электромобилей составил 44, у электромобилей-внедорожников — 43, а по сравнению с бензиновыми моделями технических проблем у электромобилей оказалось почти на 80 % больше. Еще более провальными оказались характеристики подзаряжаемых гибридов (PHEV) — на 146 % хуже. Абсолютным чемпионом со знаком «-» стал Chrysler Pacifica с показателем надежности 14.Самыми надежными показали себя обычные гибриды (электромобили, не требующие подзарядки) — у них проблем на 26 % меньше, чем у ДВС-моделей. По оценкам Consumer Report, ТОП-5 самых надежных автобрендов составили Lexus, Toyota, Mini, Honda и Subaru со средними показателями 79, 76, 71, 70 и 69. Наименее надежными оказались Jeep, Volkswagen, Rivian, Mercedes-Benz и Chrysler. Consumer Report настоятельно советует тем, кто собирается пересесть на электромобили, не спешить, изучить отзывы автовладельцев — и, самое главное, проблемы, с которыми они",
     "time_sent_pair": {},
     "relation": [
       {
         "link1": "L2",
         "link2": "L1",
-        "type": "研发"
+        "type": "别名"
       },
       {
-        "link1": "L2",
-        "link2": "L6",
+        "link1": "L6",
+        "link2": "L0",
+        "type": "包含"
+      },
+      {
+        "link1": "L6",
+        "link2": "L3",
+        "type": "包含"
+      },
+      {
+        "link1": "L6",
+        "link2": "L4",
+        "type": "包含"
+      },
+      {
+        "link1": "L6",
+        "link2": "L5",
+        "type": "包含"
+      },
+      {
+        "link1": "L5",
+        "link2": "L0",
+        "type": "包含"
+      },
+      {
+        "link1": "L5",
+        "link2": "L3",
+        "type": "包含"
+      },
+      {
+        "link1": "L5",
+        "link2": "L4",
+        "type": "包含"
+      },
+      {
+        "link1": "L7",
+        "link2": "L1",
+        "type": "包含"
+      },
+      {
+        "link1": "L7",
+        "link2": "L2",
+        "type": "包含"
+      },
+      {
+        "link1": "L7",
+        "link2": "L8",
+        "type": "包含"
+      },
+      {
+        "link1": "L10",
+        "link2": "L9",
         "type": "别名"
+      },
+      {
+        "link1": "L3",
+        "link2": "L9",
+        "type": "包含"
+      },
+      {
+        "link1": "L3",
+        "link2": "L10",
+        "type": "包含"
+      },
+      {
+        "link1": "L3",
+        "link2": "L11",
+        "type": "包含"
+      },
+      {
+        "link1": "L5",
+        "link2": "L9",
+        "type": "包含"
+      },
+      {
+        "link1": "L5",
+        "link2": "L10",
+        "type": "包含"
+      },
+      {
+        "link1": "L5",
+        "link2": "L11",
+        "type": "包含"
+      },
+      {
+        "link1": "L12",
+        "link2": "L11",
+        "type": "包含"
+      },
+      {
+        "link1": "L13",
+        "link2": "L11",
+        "type": "包含"
+      },
+      {
+        "link1": "L14",
+        "link2": "L11",
+        "type": "包含"
+      },
+      {
+        "link1": "L15",
+        "link2": "L11",
+        "type": "包含"
+      },
+      {
+        "link1": "L16",
+        "link2": "L11",
+        "type": "包含"
+      },
+      {
+        "link1": "L18",
+        "link2": "L9",
+        "type": "包含"
+      },
+      {
+        "link1": "L19",
+        "link2": "L9",
+        "type": "包含"
+      },
+      {
+        "link1": "L20",
+        "link2": "L9",
+        "type": "包含"
+      },
+      {
+        "link1": "L21",
+        "link2": "L9",
+        "type": "包含"
       }
     ],
     "entityLink": {
       "L0": {
         "len": 1,
-        "type": "技术",
+        "type": "产品",
         "link": [
           {
-            "type": "技术",
+            "type": "产品",
             "start": "",
             "end": "",
-            "text": "tpm",
+            "text": "силовые агрегаты",
             "sent_time": ""
           }
         ]
@@ -1497,12 +3824,433 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "windows 11",
+            "text": "двигателей внутреннего сгорания",
             "sent_time": ""
           }
         ]
       },
       "L2": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "ДВС",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "гибриды",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "полностью электрические автомобили",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L5": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "электромобилей-внедорожников",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L6": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "электромобиле",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L7": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "ДВС-моделями",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L8": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "бензиновыми моделями",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L9": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "подзаряжаемых гибридов",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L10": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "PHEV",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L11": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "обычные гибриды",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L12": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Lexus",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L13": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Toyota",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L14": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Mini",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L15": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Honda",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L16": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Subaru",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L17": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Jeep",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L18": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Volkswagen",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L19": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Rivian",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L20": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Mercedes-Benz",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L21": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Chrysler",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L23": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "Consumer Report",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L24": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Chrysler Pacifica",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "9599",
+    "video_title": "",
+    "lang": "russian"
+  },
+  {
+    "doc": "Cuesta seguirle el ritmo, pero definitivamente vale la pena. Con su más de 80 hectáreas, el CES (por Consumer Edlectronic Show), en la ciudad de La Vegas, es sinónimo de innovación en desarrollo tecnológico. Su edición 2024 muestra que las empresas se volcaron por revolucionarias pantallas, inteligencia artificial, soluciones para automotrices y computadoras portátiles delgadas y potentes. Pero sobre todo, era de prever, inteligencia artificial. Este año la propuesta en pantallas fue bastante diversificada. Por un lado, Hisense presentó varios modelos como el Sonic Laser TV, el primer televisor láser equipado con tecnología 8K y 33 millones de pixeles. Además, tiene 100.000 unidades de emisión de sonido directamente en la pantalla, por lo que la experiencia es altamente inmersiva. Otra empresa que se destacó en este apartado fue LG, con el OLED T, el primer televisor OLED transparente del mercado. Con una resolución de 4K, la pantalla pasa completamente inadvertida si se encuentra apagada. Samsung tampoco quiso quedarse afuera de esta tendencia y mostró su pantalla MicroLED transparente, en la que cada LED representa un pixel individual. Es modular y por lo tanto se pueden construir pantallas de diferentes tamaños, según las necesidades. Otro producto que mostró Samsung fue el Neo QLED 8K QN900D, que cuenta con un procesador de inteligencia artificial (IA) integrada (el NQ8 AI Gen 3), equipado con una red neuronal 8 veces mayor que su predecesor, y una NPU dos veces más rápida. Así, el televisor mejora automáticamente el contenido de baja resolución y la puede llevar hasta 8K. El que sorprendió a todos fue el asistente de Rabbit, llamado R1, que vendió 20.000 unidades en dos días. ¿La clave de su éxito ahí donde el AI Pin de Humane no movió la aguja? Aparte de simpático, versátil y cargado de inteligencia artificial de la útil, cuesta solo 200 dólares. Los semiconductores siempre son noticia, y en esta edición del CES no fueron la excepción. Tanto AMD como Intel presentaron soluciones para diferentes mercados. La vedette de la primera fue la familia de procesadores de escritorio Ryzen Serie 8000G, incluido el Ryzen 7 8700G, de AMD, con los gráficos integrados más potentes del mundo. Además, con la introducción de Ryzen AI, viene una unidad de procesamiento neuronal (NPU) dedicada a las desktop. Era de esperarse. Por su parte, Intel mostró la nueva familia de procesadores para portátiles, los Core de 14a generación, encabezada por su nuevo tope de gama, el Core i9-14900HX, con 24 núcleos. También Nvidia se sumó a la propuesta con herramientas para mejorar las experiencias de PC con IA generativa (IAGen). Por un lado con su tecnología de aceleración TensorRT para flujos de trabajo de texto a imagen y RTX Remix, con herramientas de textura asistidas por IAGen. Los coches cobran cada vez mas relevancia en el CES. Desde hace algunos años ocupan un pabellón completo con diferentes prototipos y desarrollos. Entre los vehículos más destacados, empresas como Mitsubishi motraron motos eléctricas que dejaron de lado el diseño minimalista; esta vez el stand lució motos de ruta y deportivas. Sin embargo el desarrollo que se robó todas las miradas fue el Afeela, un auto co-desarrollado por Sony y Honda que puede ser manejado utilizando un mando de Playstation 5. Otro stand muy concurrido fue el de Xpeng Aeroht, un desarrollo conceptual que presenta un auto futurista con la capacidad de desplegar un sistema con ocho hélices para sobrevolar el tránsito. Salvo que en el futuro todos tengan esa capacidad, claro. Para el campo, John Deere mostró en su booth, un tractor de conducción autónoma y con un habitáculo lleno de pantallas que permiten monitorear diferentes aspectos del trabajo. Varias empresas presentaron soluciones de software y hardware para automotrices. Una de ellas fue Hisense, con su tecnología de pantallas para automóviles que propone construir un entorno dentro del habitáculo utilizando lásers. El AR HUD holográfico transforma el parabrisas en un centro de información que muestra datos del vehículo e información del trayecto. También LG mostró su tecnología de faros para autos con dos módulos ZKW microZ integrados en la parte delantera del coche; pueden crearse proyecciones animadas utilizando iluminación frontal inteligente. La función de proyector de los faros genera una imagen de 100 pulgadas que puede utilizarse para montar un autocine propio. Hace años que diferentes empresas desarrollan el concepto de casa inteligente. En este CES, Samsung, LG y Hisense redoblaron la apuesta con nuevas soluciones para este segmento. La mayoría mostró un ecosistema de productos de línea blanca (cocinas, lavarropas, microondas) que se pueden comunicar con televisores, celulares y hasta con robots que patrullan el hogar, como Ballie, de Samsung, que ya tiene una nueva versión.",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L3",
+        "link2": "L4",
+        "type": "研发"
+      },
+      {
+        "link1": "L4",
+        "link2": "L5",
+        "type": "采用"
+      },
+      {
+        "link1": "L4",
+        "link2": "L6",
+        "type": "采用"
+      },
+      {
+        "link1": "L7",
+        "link2": "L8",
+        "type": "研发"
+      },
+      {
+        "link1": "L8",
+        "link2": "L9",
+        "type": "采用"
+      },
+      {
+        "link1": "L10",
+        "link2": "L11",
+        "type": "研发"
+      },
+      {
+        "link1": "L12",
+        "link2": "L13",
+        "type": "采用"
+      },
+      {
+        "link1": "L10",
+        "link2": "L12",
+        "type": "研发"
+      },
+      {
+        "link1": "L16",
+        "link2": "L17",
+        "type": "相关"
+      },
+      {
+        "link1": "L14",
+        "link2": "L17",
+        "type": "研发"
+      },
+      {
+        "link1": "L15",
+        "link2": "L18",
+        "type": "研发"
+      },
+      {
+        "link1": "L20",
+        "link2": "L21",
+        "type": "别名"
+      },
+      {
+        "link1": "L19",
+        "link2": "L22",
+        "type": "研发"
+      },
+      {
+        "link1": "L19",
+        "link2": "L23",
+        "type": "研发"
+      },
+      {
+        "link1": "L22",
+        "link2": "L20",
+        "type": "采用"
+      },
+      {
+        "link1": "L23",
+        "link2": "L20",
+        "type": "采用"
+      },
+      {
+        "link1": "L25",
+        "link2": "L26",
+        "type": "合作"
+      },
+      {
+        "link1": "L25",
+        "link2": "L27",
+        "type": "研发"
+      },
+      {
+        "link1": "L28",
+        "link2": "L27",
+        "type": "相关"
+      },
+      {
+        "link1": "L30",
+        "link2": "L31",
+        "type": "采用"
+      },
+      {
+        "link1": "L3",
+        "link2": "L30",
+        "type": "研发"
+      },
+      {
+        "link1": "L7",
+        "link2": "L32",
+        "type": "研发"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "地点",
+        "link": [
+          {
+            "type": "地点",
+            "start": "",
+            "end": "",
+            "text": "la ciudad de La Vegas",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
         "len": 1,
         "type": "企业",
         "link": [
@@ -1510,33 +4258,20 @@
             "type": "企业",
             "start": "",
             "end": "",
-            "text": "microsoft",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L3": {
-        "len": 1,
-        "type": "技术",
-        "link": [
-          {
-            "type": "技术",
-            "start": "",
-            "end": "",
-            "text": "rufus",
+            "text": "Hisense",
             "sent_time": ""
           }
         ]
       },
       "L4": {
         "len": 1,
-        "type": "技术",
+        "type": "产品",
         "link": [
           {
-            "type": "技术",
+            "type": "产品",
             "start": "",
             "end": "",
-            "text": "tpm 2.0",
+            "text": "Sonic Laser TV,",
             "sent_time": ""
           }
         ]
@@ -1549,7 +4284,513 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "la unidad flash usb",
+            "text": "tecnología 8K ",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L6": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": " 33 millones de pixeles",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L7": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "LG",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L8": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "OLED T",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L9": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": " una resolución de 4K",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L10": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Samsung",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L11": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "pantalla MicroLED transparente",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L12": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "el Neo QLED 8K QN900D",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L13": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "un procesador de inteligencia artificial (IA) integrada (el NQ8 AI Gen 3)",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L14": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "AMD",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L15": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": " Intel",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L16": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 7 8700G",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L17": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen Serie 8000G",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L18": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "el Core i9-14900HX, con 24 núcleos",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L19": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Nvidia",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L20": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "IA generativa ",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L21": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "IAGen",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L22": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "tecnología de aceleración TensorRT",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L23": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "RTX Remix",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L24": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Mitsubishi",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L25": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Sony",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L26": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Honda",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L27": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Afeela",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L28": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Playstation 5",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L29": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Xpeng Aeroht",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L30": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "su tecnología de pantallas para automóviles que propone construir un entorno dentro del habitáculo utilizando lásers",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L31": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": " AR HUD holográfico",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L32": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "su tecnología de faros para autos con dos módulos ZKW microZ integrados",
+            "sent_time": ""
+          }
+        ]
+      }
+    },
+    "image": [],
+    "video_id": "7466",
+    "video_title": "",
+    "lang": "spanish"
+  },
+  {
+    "doc": "Aún estamos a varios meses de conocer la nueva serie Samsung Galaxy S24, sin embargo, los rumores ya están alcanzando su punto álgido. Se espera que el Galaxy S24 Ultra lidere la gama alta, compitiendo directamente con los iPhone 15 Pro Max de Apple y los Pixel 8 Pro de Google. Entre las filtraciones más destacadas, Windows Report destacó que Samsung utilizará titanio en los marcos laterales del Galaxy S24 Ultra, una elección de material costosa que presenta tanto ventajas como desventajas.El titanio, utilizado por primera vez por Samsung, ofrece una reducción significativa en el peso del dispositivo, pero algunos usuarios han expresado preocupación sobre su resistencia a marcas de uso, como ralladuras y pequeñas picaduras. Además, las acusaciones de sobrecalentamiento, similares a las que enfrentó Apple con los iPhone 15 y 15 Pro, han suscitado inquietudes. Sin embargo, Samsung busca abordar este problema mediante una mejora en la refrigeración de los dispositivos, integrando una cámara de vapor 1.9 veces más grande que la de su predecesor en los S24 Ultra.Aunque el titanio y sus posibles desafíos han generado atención, las filtraciones también revelan otros aspectos emocionantes de la próxima serie Galaxy. El diseño, aparentemente continuista con la generación anterior, incluye una pantalla plana en el S24 Ultra, abandonando las tradicionales pantallas curvas. Este cambio busca mejorar la calidad visual y reducir posibles toques fantasma asociados con las pantallas curvas.En cuanto a la potencia y la fotografía, se espera que el S24 Ultra incorpore un Snapdragon 8 Gen 3, mientras que la cámara principal podría contar con un asombroso sensor de 200 megapíxeles. La pantalla de 6,8 pulgadas con resolución QHD+ y una tasa de refresco de 120 Hz añade otro elemento destacado, prometiendo una experiencia visual envolvente.El informe también desvela detalles sobre la variedad de colores y opciones de almacenamiento para los modelos S24, S24+ y S24 Ultra. El S24 Ultra, en particular, ofrecerá opciones de almacenamiento de 256 GB, 512 GB o incluso 1 TB, junto con un chasis de titanio en colores como Titanium Black, Titanium Grey, Titanium Violet y Titanium Yellow.Además, se sugiere que los modelos S24 y S24+ podrían estar disponibles con procesadores Exynos en ciertos mercados, mientras que el S24 Ultra se mantendría con el Snapdragon 8 Gen 3. Todos los dispositivos ofrecerán capacidades de inteligencia artificial potenciadas por el chipset, brindando características avanzadas. Algunas de ellas son: traducción en tiempo real y funciones de edición de fotos mediante IA.Con el evento Galaxy Unpacked programado para el 17 de enero, donde se espera que se presente oficialmente la serie Samsung Galaxy S24, la emoción y las expectativas continúan creciendo. Mientras tanto, los amantes de la tecnología aguardan ansiosos por descubrir hasta qué punto estos rumores se convertirán en realidad.Imagen: Windows Report",
+    "time_sent_pair": {},
+    "relation": [
+      {
+        "link1": "L0",
+        "link2": "L1",
+        "type": "研发"
+      },
+      {
+        "link1": "L2",
+        "link2": "L1",
+        "type": "相关"
+      },
+      {
+        "link1": "L3",
+        "link2": "L5",
+        "type": "从属"
+      },
+      {
+        "link1": "L4",
+        "link2": "L6",
+        "type": "从属"
+      },
+      {
+        "link1": "L2",
+        "link2": "L3",
+        "type": "竞争"
+      },
+      {
+        "link1": "L2",
+        "link2": "L4",
+        "type": "竞争"
+      },
+      {
+        "link1": "L2",
+        "link2": "L7",
+        "type": "采用"
+      },
+      {
+        "link1": "L2",
+        "link2": "L8",
+        "type": "采用"
+      },
+      {
+        "link1": "L2",
+        "link2": "L10",
+        "type": "采用"
+      },
+      {
+        "link1": "L2",
+        "link2": "L9",
+        "type": "采用"
+      },
+      {
+        "link1": "L2",
+        "link2": "L11",
+        "type": "采用"
+      },
+      {
+        "link1": "L12",
+        "link2": "L1",
+        "type": "相关"
+      },
+      {
+        "link1": "L13",
+        "link2": "L1",
+        "type": "相关"
+      }
+    ],
+    "entityLink": {
+      "L0": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Samsung",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L1": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Galaxy S24",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L2": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "el Galaxy S24 Ultra",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L3": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "iPhone 15 Pro Max",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L4": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Pixel 8 Pro",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L5": {
+        "len": 1,
+        "type": "企业",
+        "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Apple",
             "sent_time": ""
           }
         ]
@@ -1562,7 +4803,7 @@
             "type": "企业",
             "start": "",
             "end": "",
-            "text": "la marca con sede en redmond",
+            "text": "Google",
             "sent_time": ""
           }
         ]
@@ -1575,14 +4816,92 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "github",
+            "text": "una cámara de vapor ",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L8": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "una pantalla plana",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L9": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "un Snapdragon 8 Gen 3",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L10": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "un asombroso sensor de 200 megapíxeles",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L11": {
+        "len": 1,
+        "type": "技术",
+        "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "almacenamiento de 256 GB, 512 GB o incluso 1 TB",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L12": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "S24",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L13": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "S24+",
             "sent_time": ""
           }
         ]
       }
     },
     "image": [],
-    "video_id": "342",
+    "video_id": "2328",
     "video_title": "",
     "lang": "spanish"
   }
