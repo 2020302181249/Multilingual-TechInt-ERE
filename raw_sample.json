@@ -9,23 +9,38 @@
         "type": "拥有"
       },
       {
-        "link1": "L8",
-        "link2": "L7",
+        "link1": "L4",
+        "link2": "L35",
+        "type": "研发"
+      },
+      {
+        "link1": "L4",
+        "link2": "L38",
         "type": "采用"
       },
       {
-        "link1": "L9",
-        "link2": "L7",
-        "type": "采用"
+        "link1": "L4",
+        "link2": "L51",
+        "type": "研发"
       },
       {
-        "link1": "L13",
+        "link1": "L51",
+        "link2": "L11",
+        "type": "包含"
+      },
+      {
+        "link1": "L51",
         "link2": "L12",
         "type": "包含"
       },
       {
-        "link1": "L13",
-        "link2": "L11",
+        "link1": "L51",
+        "link2": "L19",
+        "type": "包含"
+      },
+      {
+        "link1": "L51",
+        "link2": "L20",
         "type": "包含"
       },
       {
@@ -34,18 +49,13 @@
         "type": "别名"
       },
       {
-        "link1": "L13",
-        "link2": "L19",
-        "type": "包含"
-      },
-      {
-        "link1": "L13",
-        "link2": "L20",
-        "type": "包含"
-      },
-      {
-        "link1": "L28",
+        "link1": "L14",
         "link2": "L29",
+        "type": "别名"
+      },
+      {
+        "link1": "L34",
+        "link2": "L14",
         "type": "别名"
       },
       {
@@ -59,13 +69,33 @@
         "type": "包含"
       },
       {
+        "link1": "L34",
+        "link2": "L32",
+        "type": "采用"
+      },
+      {
         "link1": "L30",
         "link2": "L31",
         "type": "包含"
       },
       {
-        "link1": "L30",
-        "link2": "L32",
+        "link1": "L38",
+        "link2": "L39",
+        "type": "包含"
+      },
+      {
+        "link1": "L38",
+        "link2": "L41",
+        "type": "包含"
+      },
+      {
+        "link1": "L38",
+        "link2": "L43",
+        "type": "包含"
+      },
+      {
+        "link1": "L38",
+        "link2": "L44",
         "type": "包含"
       },
       {
@@ -124,32 +154,6 @@
           }
         ]
       },
-      "L5": {
-        "len": 1,
-        "type": "技术",
-        "link": [
-          {
-            "type": "技术",
-            "start": "",
-            "end": "",
-            "text": "用芯构建光时代神经系统",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L6": {
-        "len": 1,
-        "type": "技术",
-        "link": [
-          {
-            "type": "技术",
-            "start": "",
-            "end": "",
-            "text": "Lighting the world with TS-PON",
-            "sent_time": ""
-          }
-        ]
-      },
       "L7": {
         "len": 1,
         "type": "技术",
@@ -191,10 +195,10 @@
       },
       "L10": {
         "len": 1,
-        "type": "技术",
+        "type": "产品",
         "link": [
           {
-            "type": "技术",
+            "type": "产品",
             "start": "",
             "end": "",
             "text": "端到端工业连接芯片及全栈式解决方案",
@@ -242,9 +246,16 @@
         ]
       },
       "L14": {
-        "len": 1,
+        "len": 2,
         "type": "技术",
         "link": [
+          {
+            "type": "技术",
+            "start": "",
+            "end": "",
+            "text": "TS-PON",
+            "sent_time": ""
+          },
           {
             "type": "技术",
             "start": "",
@@ -423,19 +434,6 @@
           }
         ]
       },
-      "L28": {
-        "len": 1,
-        "type": "技术",
-        "link": [
-          {
-            "type": "技术",
-            "start": "",
-            "end": "",
-            "text": "TS-PON",
-            "sent_time": ""
-          }
-        ]
-      },
       "L29": {
         "len": 1,
         "type": "技术",
@@ -516,10 +514,10 @@
       },
       "L35": {
         "len": 1,
-        "type": "技术",
+        "type": "产品",
         "link": [
           {
-            "type": "技术",
+            "type": "产品",
             "start": "",
             "end": "",
             "text": "FTTR mini-OLT ASIC方案",
@@ -678,7 +676,7 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "光上车",
+            "text": "智能汽车“光上车”车载平台方案",
             "sent_time": ""
           }
         ]
@@ -721,6 +719,19 @@
             "sent_time": ""
           }
         ]
+      },
+      "L51": {
+        "len": 1,
+        "type": "产品",
+        "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "VN系列SoC芯片",
+            "sent_time": ""
+          }
+        ]
       }
     },
     "image": [],
@@ -743,7 +754,12 @@
         "type": "合作"
       },
       {
-        "link1": "L5",
+        "link1": "L3",
+        "link2": "L5",
+        "type": "合作"
+      },
+      {
+        "link1": "L3",
         "link2": "L6",
         "type": "研发"
       },
@@ -753,17 +769,17 @@
         "type": "研发"
       },
       {
-        "link1": "L3",
+        "link1": "L5",
         "link2": "L6",
         "type": "研发"
       },
       {
-        "link1": "L10",
+        "link1": "L3",
         "link2": "L8",
         "type": "拥有"
       },
       {
-        "link1": "L9",
+        "link1": "L4",
         "link2": "L7",
         "type": "拥有"
       },
@@ -778,52 +794,22 @@
         "type": "采用"
       },
       {
-        "link1": "L11",
-        "link2": "L12",
-        "type": "合作"
-      },
-      {
-        "link1": "L12",
-        "link2": "L13",
-        "type": "合作"
-      },
-      {
-        "link1": "L13",
-        "link2": "L14",
-        "type": "研发"
-      },
-      {
-        "link1": "L12",
-        "link2": "L14",
-        "type": "研发"
-      },
-      {
-        "link1": "L11",
-        "link2": "L14",
-        "type": "研发"
-      },
-      {
-        "link1": "L16",
+        "link1": "L4",
         "link2": "L15",
         "type": "拥有"
       },
       {
-        "link1": "L17",
+        "link1": "L6",
         "link2": "L15",
         "type": "采用"
       },
       {
-        "link1": "L18",
-        "link2": "L14",
-        "type": "别名"
+        "link1": "L4",
+        "link2": "L20",
+        "type": "拥有"
       },
       {
-        "link1": "L18",
-        "link2": "L19",
-        "type": "包含"
-      },
-      {
-        "link1": "L18",
+        "link1": "L6",
         "link2": "L20",
         "type": "包含"
       }
@@ -856,9 +842,23 @@
         ]
       },
       "L3": {
-        "len": 1,
+        "len": 3,
         "type": "企业",
         "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "阿里云",
+            "sent_time": ""
+          },
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "阿里云",
+            "sent_time": ""
+          },
           {
             "type": "企业",
             "start": "",
@@ -869,9 +869,30 @@
         ]
       },
       "L4": {
-        "len": 1,
+        "len": 4,
         "type": "企业",
         "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "中科可控",
+            "sent_time": ""
+          },
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "中科可控",
+            "sent_time": ""
+          },
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "中科可控",
+            "sent_time": ""
+          },
           {
             "type": "企业",
             "start": "",
@@ -882,9 +903,16 @@
         ]
       },
       "L5": {
-        "len": 1,
+        "len": 2,
         "type": "机构",
         "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "郑州大学",
+            "sent_time": ""
+          },
           {
             "type": "机构",
             "start": "",
@@ -895,9 +923,16 @@
         ]
       },
       "L6": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "人工智能云平台",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -928,85 +963,7 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "机器学习平台 PAI ",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L9": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "中科可控",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L10": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "阿里云",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L11": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "阿里云",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L12": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "中科可控",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L13": {
-        "len": 1,
-        "type": "机构",
-        "link": [
-          {
-            "type": "机构",
-            "start": "",
-            "end": "",
-            "text": "郑州大学",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L14": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "人工智能云平台",
+            "text": "机器学习平台 PAI",
             "sent_time": ""
           }
         ]
@@ -1024,25 +981,12 @@
           }
         ]
       },
-      "L16": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "中科可控",
-            "sent_time": ""
-          }
-        ]
-      },
       "L17": {
         "len": 1,
-        "type": "产品",
+        "type": "技术",
         "link": [
           {
-            "type": "产品",
+            "type": "技术",
             "start": "",
             "end": "",
             "text": "AI 大模型",
@@ -1050,41 +994,28 @@
           }
         ]
       },
-      "L18": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "平台",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L19": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "阿里云机器学习 PAI 资源",
-            "sent_time": ""
-          }
-        ]
-      },
       "L20": {
         "len": 1,
-        "type": "产品",
+        "type": "技术",
         "link": [
           {
-            "type": "产品",
+            "type": "技术",
             "start": "",
             "end": "",
-            "text": "中科可控的开放 API 接口",
+            "text": "开放 API 接口",
+            "sent_time": ""
+          }
+        ]
+      },
+      "L21": {
+        "len": 1,
+        "type": "机构",
+        "link": [
+          {
+            "type": "机构",
+            "start": "",
+            "end": "",
+            "text": "科技部",
             "sent_time": ""
           }
         ]
@@ -1121,7 +1052,7 @@
       },
       {
         "link1": "L6",
-        "link2": "L8",
+        "link2": "L1",
         "type": "雇佣"
       },
       {
@@ -1130,8 +1061,8 @@
         "type": "别名"
       },
       {
-        "link1": "L9",
-        "link2": "L4",
+        "link1": "L4",
+        "link2": "L9",
         "type": "位于"
       },
       {
@@ -1141,7 +1072,7 @@
       },
       {
         "link1": "L6",
-        "link2": "L15",
+        "link2": "L3",
         "type": "雇佣"
       },
       {
@@ -1200,8 +1131,8 @@
         "type": "雇佣"
       },
       {
-        "link1": "L34",
-        "link2": "L33",
+        "link1": "L33",
+        "link2": "L34",
         "type": "位于"
       },
       {
@@ -1221,7 +1152,7 @@
       },
       {
         "link1": "L31",
-        "link2": "L38",
+        "link2": "L13",
         "type": "雇佣"
       },
       {
@@ -1230,13 +1161,13 @@
         "type": "负责人"
       },
       {
-        "link1": "L40",
-        "link2": "L39",
+        "link1": "L39",
+        "link2": "L40",
         "type": "位于"
       },
       {
         "link1": "L41",
-        "link2": "L42",
+        "link2": "L24",
         "type": "雇佣"
       },
       {
@@ -1248,11 +1179,6 @@
         "link1": "L46",
         "link2": "L41",
         "type": "别名"
-      },
-      {
-        "link1": "L41",
-        "link2": "L43",
-        "type": "雇佣"
       },
       {
         "link1": "L47",
@@ -1315,13 +1241,13 @@
         "type": "负责人"
       },
       {
-        "link1": "L40",
-        "link2": "L65",
+        "link1": "L65",
+        "link2": "L40",
         "type": "位于"
       },
       {
-        "link1": "L67",
-        "link2": "L66",
+        "link1": "L66",
+        "link2": "L67",
         "type": "位于"
       },
       {
@@ -1355,9 +1281,16 @@
         ]
       },
       "L1": {
-        "len": 1,
+        "len": 2,
         "type": "企业",
         "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Lessen",
+            "sent_time": ""
+          },
           {
             "type": "企业",
             "start": "",
@@ -1381,9 +1314,16 @@
         ]
       },
       "L3": {
-        "len": 1,
+        "len": 2,
         "type": "企业",
         "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Uber",
+            "sent_time": ""
+          },
           {
             "type": "企业",
             "start": "",
@@ -1419,19 +1359,6 @@
           }
         ]
       },
-      "L8": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "Lessen",
-            "sent_time": ""
-          }
-        ]
-      },
       "L9": {
         "len": 1,
         "type": "地点",
@@ -1459,7 +1386,7 @@
         ]
       },
       "L13": {
-        "len": 1,
+        "len": 2,
         "type": "企业",
         "link": [
           {
@@ -1468,18 +1395,12 @@
             "end": "",
             "text": "Zillow Group",
             "sent_time": ""
-          }
-        ]
-      },
-      "L15": {
-        "len": 1,
-        "type": "企业",
-        "link": [
+          },
           {
             "type": "企业",
             "start": "",
             "end": "",
-            "text": "Uber",
+            "text": "Zillow Group",
             "sent_time": ""
           }
         ]
@@ -1576,9 +1497,16 @@
         ]
       },
       "L24": {
-        "len": 1,
+        "len": 2,
         "type": "企业",
         "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Microsoft",
+            "sent_time": ""
+          },
           {
             "type": "企业",
             "start": "",
@@ -1731,19 +1659,6 @@
           }
         ]
       },
-      "L38": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "ZIllow Group",
-            "sent_time": ""
-          }
-        ]
-      },
       "L39": {
         "len": 1,
         "type": "企业",
@@ -1783,25 +1698,12 @@
           }
         ]
       },
-      "L42": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "Microsoft",
-            "sent_time": ""
-          }
-        ]
-      },
       "L43": {
         "len": 1,
-        "type": "企业",
+        "type": "产品",
         "link": [
           {
-            "type": "企业",
+            "type": "产品",
             "start": "",
             "end": "",
             "text": "Xbox",
@@ -2084,10 +1986,10 @@
       },
       "L70": {
         "len": 1,
-        "type": "企业",
+        "type": "机构",
         "link": [
           {
-            "type": "企业",
+            "type": "机构",
             "start": "",
             "end": "",
             "text": "Washington Maritime Blue",
@@ -2119,8 +2021,8 @@
     "time_sent_pair": {},
     "relation": [
       {
-        "link1": "L2",
-        "link2": "L1",
+        "link1": "L1",
+        "link2": "L2",
         "type": "位于"
       },
       {
@@ -2159,13 +2061,8 @@
         "type": "别名"
       },
       {
-        "link1": "L10",
-        "link2": "L11",
-        "type": "从属"
-      },
-      {
-        "link1": "L13",
-        "link2": "L1",
+        "link1": "L1",
+        "link2": "L13",
         "type": "研发"
       },
       {
@@ -2184,8 +2081,8 @@
         "type": "雇佣"
       },
       {
-        "link1": "L24",
-        "link2": "L23",
+        "link1": "L23",
+        "link2": "L24",
         "type": "位于"
       },
       {
@@ -2216,7 +2113,7 @@
       {
         "link1": "L31",
         "link2": "L23",
-        "type": "雇佣"
+        "type": "负责人"
       },
       {
         "link1": "L33",
@@ -2229,8 +2126,8 @@
         "type": "雇佣"
       },
       {
-        "link1": "L35",
-        "link2": "L34",
+        "link1": "L34",
+        "link2": "L35",
         "type": "位于"
       },
       {
@@ -2244,8 +2141,8 @@
         "type": "雇佣"
       },
       {
-        "link1": "L2",
-        "link2": "L41",
+        "link1": "L41",
+        "link2": "L2",
         "type": "位于"
       },
       {
@@ -2314,8 +2211,8 @@
         "type": "雇佣"
       },
       {
-        "link1": "L2",
-        "link2": "L64",
+        "link1": "L64",
+        "link2": "L2",
         "type": "位于"
       },
       {
@@ -2509,7 +2406,7 @@
             "type": "机构",
             "start": "",
             "end": "",
-            "text": " FAA",
+            "text": "FAA",
             "sent_time": ""
           }
         ]
@@ -3045,34 +2942,29 @@
     "time_sent_pair": {},
     "relation": [
       {
-        "link1": "L8",
+        "link1": "L2",
         "link2": "L1",
+        "type": "研发"
+      },
+      {
+        "link1": "L1",
+        "link2": "L8",
         "type": "包含"
       },
       {
-        "link1": "L9",
-        "link2": "L1",
+        "link1": "L1",
+        "link2": "L9",
         "type": "包含"
       },
       {
-        "link1": "L6",
-        "link2": "L1",
+        "link1": "L1",
+        "link2": "L6",
         "type": "包含"
       },
       {
         "link1": "L1",
         "link2": "L7",
         "type": "包含"
-      },
-      {
-        "link1": "L4",
-        "link2": "L14",
-        "type": "研发"
-      },
-      {
-        "link1": "L4",
-        "link2": "L15",
-        "type": "研发"
       },
       {
         "link1": "L5",
@@ -3095,116 +2987,33 @@
         "type": "包含"
       },
       {
+        "link1": "L4",
+        "link2": "L14",
+        "type": "研发"
+      },
+      {
+        "link1": "L4",
+        "link2": "L15",
+        "type": "研发"
+      },
+      {
         "link1": "L2",
-        "link2": "L0",
-        "type": "从属"
-      },
-      {
-        "link1": "L0",
         "link2": "L4",
-        "type": "从属"
-      },
-      {
-        "link1": "L18",
-        "link2": "L21",
-        "type": "从属"
-      },
-      {
-        "link1": "L18",
-        "link2": "L33",
-        "type": "从属"
-      },
-      {
-        "link1": "L33",
-        "link2": "L21",
         "type": "竞争"
-      },
-      {
-        "link1": "L33",
-        "link2": "L34",
-        "type": "研发"
-      },
-      {
-        "link1": "L35",
-        "link2": "L33",
-        "type": "研发"
-      },
-      {
-        "link1": "L19",
-        "link2": "L22",
-        "type": "包含"
-      },
-      {
-        "link1": "L22",
-        "link2": "L20",
-        "type": "包含"
-      },
-      {
-        "link1": "L22",
-        "link2": "L24",
-        "type": "包含"
-      },
-      {
-        "link1": "L22",
-        "link2": "L25",
-        "type": "包含"
-      },
-      {
-        "link1": "L22",
-        "link2": "L27",
-        "type": "包含"
-      },
-      {
-        "link1": "L21",
-        "link2": "L19",
-        "type": "研发"
-      },
-      {
-        "link1": "L21",
-        "link2": "L20",
-        "type": "研发"
-      },
-      {
-        "link1": "L29",
-        "link2": "L22",
-        "type": "包含"
-      },
-      {
-        "link1": "L30",
-        "link2": "L22",
-        "type": "包含"
-      },
-      {
-        "link1": "L24",
-        "link2": "L22",
-        "type": "包含"
-      },
-      {
-        "link1": "L28",
-        "link2": "L22",
-        "type": "包含"
-      },
-      {
-        "link1": "L31",
-        "link2": "L22",
-        "type": "包含"
-      },
-      {
-        "link1": "L32",
-        "link2": "L22",
-        "type": "包含"
-      },
-      {
-        "link1": "L26",
-        "link2": "L22",
-        "type": "包含"
       }
     ],
     "entityLink": {
       "L0": {
-        "len": 1,
+        "len": 2,
         "type": "国家",
         "link": [
+          {
+            "type": "国家",
+            "start": "",
+            "end": "",
+            "text": "США",
+            "sent_time": ""
+          },
           {
             "type": "国家",
             "start": "",
@@ -3215,9 +3024,16 @@
         ]
       },
       "L1": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "AMD Ryzen 9000X",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -3228,9 +3044,16 @@
         ]
       },
       "L2": {
-        "len": 1,
+        "len": 2,
         "type": "企业",
         "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "AMD",
+            "sent_time": ""
+          },
           {
             "type": "企业",
             "start": "",
@@ -3254,9 +3077,16 @@
         ]
       },
       "L4": {
-        "len": 1,
+        "len": 2,
         "type": "企业",
         "link": [
+          {
+            "type": "企业",
+            "start": "",
+            "end": "",
+            "text": "Intel",
+            "sent_time": ""
+          },
           {
             "type": "企业",
             "start": "",
@@ -3267,9 +3097,16 @@
         ]
       },
       "L5": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 7000X",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -3280,9 +3117,16 @@
         ]
       },
       "L6": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 5 9600X",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -3293,9 +3137,16 @@
         ]
       },
       "L7": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 9 9950X",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -3306,9 +3157,16 @@
         ]
       },
       "L8": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 7 9700X",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -3319,9 +3177,16 @@
         ]
       },
       "L9": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 9 9900X",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -3332,9 +3197,16 @@
         ]
       },
       "L10": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 9 7950X",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -3345,9 +3217,16 @@
         ]
       },
       "L11": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 9 7900X",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -3358,9 +3237,16 @@
         ]
       },
       "L12": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 7 7700X",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -3371,9 +3257,16 @@
         ]
       },
       "L13": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Ryzen 5 7600X",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -3384,9 +3277,16 @@
         ]
       },
       "L14": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Core i9-14900K",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -3397,9 +3297,16 @@
         ]
       },
       "L15": {
-        "len": 1,
+        "len": 2,
         "type": "产品",
         "link": [
+          {
+            "type": "产品",
+            "start": "",
+            "end": "",
+            "text": "Core i9-14900KS",
+            "sent_time": ""
+          },
           {
             "type": "产品",
             "start": "",
@@ -3410,7 +3317,7 @@
         ]
       },
       "L17": {
-        "len": 1,
+        "len": 2,
         "type": "时间",
         "link": [
           {
@@ -3419,239 +3326,12 @@
             "end": "",
             "text": "31 июля",
             "sent_time": ""
-          }
-        ]
-      },
-      "L18": {
-        "len": 1,
-        "type": "国家",
-        "link": [
-          {
-            "type": "国家",
-            "start": "",
-            "end": "",
-            "text": "США",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L19": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "процессоров",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L20": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "AMD Ryzen 9000X",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L21": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "AMD",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L22": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "CPU",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L23": {
-        "len": 1,
-        "type": "时间",
-        "link": [
+          },
           {
             "type": "时间",
             "start": "",
             "end": "",
             "text": "31 июля",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L24": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "Ryzen 7 9700X",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L25": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "Ryzen 9 9900X",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L26": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "Ryzen 5 9600X",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L27": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "Ryzen 9 9950X",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L28": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "Ryzen 7000X",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L29": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "Ryzen 9 7950X",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L30": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "Ryzen 9 7900X",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L31": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "Ryzen 7 7700X",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L32": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "Ryzen 5 7600X",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L33": {
-        "len": 1,
-        "type": "企业",
-        "link": [
-          {
-            "type": "企业",
-            "start": "",
-            "end": "",
-            "text": "Intel",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L34": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "Core i9-14900K",
-            "sent_time": ""
-          }
-        ]
-      },
-      "L35": {
-        "len": 1,
-        "type": "产品",
-        "link": [
-          {
-            "type": "产品",
-            "start": "",
-            "end": "",
-            "text": "Core i9-14900KS",
             "sent_time": ""
           }
         ]
@@ -3672,134 +3352,14 @@
         "type": "别名"
       },
       {
-        "link1": "L6",
-        "link2": "L0",
-        "type": "包含"
-      },
-      {
-        "link1": "L6",
-        "link2": "L3",
-        "type": "包含"
-      },
-      {
-        "link1": "L6",
-        "link2": "L4",
-        "type": "包含"
-      },
-      {
-        "link1": "L6",
-        "link2": "L5",
-        "type": "包含"
-      },
-      {
-        "link1": "L5",
-        "link2": "L0",
-        "type": "包含"
-      },
-      {
-        "link1": "L5",
-        "link2": "L3",
-        "type": "包含"
-      },
-      {
-        "link1": "L5",
-        "link2": "L4",
-        "type": "包含"
-      },
-      {
-        "link1": "L7",
-        "link2": "L1",
-        "type": "包含"
-      },
-      {
-        "link1": "L7",
-        "link2": "L2",
-        "type": "包含"
-      },
-      {
-        "link1": "L7",
-        "link2": "L8",
-        "type": "包含"
-      },
-      {
         "link1": "L10",
         "link2": "L9",
         "type": "别名"
       },
       {
-        "link1": "L3",
-        "link2": "L9",
-        "type": "包含"
-      },
-      {
-        "link1": "L3",
-        "link2": "L10",
-        "type": "包含"
-      },
-      {
-        "link1": "L3",
-        "link2": "L11",
-        "type": "包含"
-      },
-      {
-        "link1": "L5",
-        "link2": "L9",
-        "type": "包含"
-      },
-      {
-        "link1": "L5",
-        "link2": "L10",
-        "type": "包含"
-      },
-      {
-        "link1": "L5",
-        "link2": "L11",
-        "type": "包含"
-      },
-      {
-        "link1": "L12",
-        "link2": "L11",
-        "type": "包含"
-      },
-      {
-        "link1": "L13",
-        "link2": "L11",
-        "type": "包含"
-      },
-      {
-        "link1": "L14",
-        "link2": "L11",
-        "type": "包含"
-      },
-      {
-        "link1": "L15",
-        "link2": "L11",
-        "type": "包含"
-      },
-      {
-        "link1": "L16",
-        "link2": "L11",
-        "type": "包含"
-      },
-      {
-        "link1": "L18",
-        "link2": "L9",
-        "type": "包含"
-      },
-      {
-        "link1": "L19",
-        "link2": "L9",
-        "type": "包含"
-      },
-      {
-        "link1": "L20",
-        "link2": "L9",
-        "type": "包含"
-      },
-      {
-        "link1": "L21",
-        "link2": "L9",
-        "type": "包含"
+        "link1": "L24",
+        "link2": "L21",
+        "type": "从属"
       }
     ],
     "entityLink": {
@@ -3961,10 +3521,10 @@
       },
       "L12": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
             "text": "Lexus",
@@ -3974,10 +3534,10 @@
       },
       "L13": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
             "text": "Toyota",
@@ -3987,10 +3547,10 @@
       },
       "L14": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
             "text": "Mini",
@@ -4000,10 +3560,10 @@
       },
       "L15": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
             "text": "Honda",
@@ -4013,10 +3573,10 @@
       },
       "L16": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
             "text": "Subaru",
@@ -4026,10 +3586,10 @@
       },
       "L17": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
             "text": "Jeep",
@@ -4039,10 +3599,10 @@
       },
       "L18": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
             "text": "Volkswagen",
@@ -4052,10 +3612,10 @@
       },
       "L19": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
             "text": "Rivian",
@@ -4065,10 +3625,10 @@
       },
       "L20": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
             "text": "Mercedes-Benz",
@@ -4078,10 +3638,10 @@
       },
       "L21": {
         "len": 1,
-        "type": "产品",
+        "type": "企业",
         "link": [
           {
-            "type": "产品",
+            "type": "企业",
             "start": "",
             "end": "",
             "text": "Chrysler",
@@ -4156,24 +3716,24 @@
         "type": "研发"
       },
       {
-        "link1": "L12",
-        "link2": "L13",
-        "type": "采用"
-      },
-      {
         "link1": "L10",
         "link2": "L12",
         "type": "研发"
       },
       {
-        "link1": "L16",
-        "link2": "L17",
-        "type": "相关"
+        "link1": "L12",
+        "link2": "L13",
+        "type": "采用"
       },
       {
         "link1": "L14",
         "link2": "L17",
         "type": "研发"
+      },
+      {
+        "link1": "L17",
+        "link2": "L16",
+        "type": "包含"
       },
       {
         "link1": "L15",
@@ -4196,11 +3756,6 @@
         "type": "研发"
       },
       {
-        "link1": "L22",
-        "link2": "L20",
-        "type": "采用"
-      },
-      {
         "link1": "L23",
         "link2": "L20",
         "type": "采用"
@@ -4216,19 +3771,19 @@
         "type": "研发"
       },
       {
-        "link1": "L28",
+        "link1": "L26",
         "link2": "L27",
-        "type": "相关"
-      },
-      {
-        "link1": "L30",
-        "link2": "L31",
-        "type": "采用"
+        "type": "研发"
       },
       {
         "link1": "L3",
         "link2": "L30",
         "type": "研发"
+      },
+      {
+        "link1": "L30",
+        "link2": "L31",
+        "type": "采用"
       },
       {
         "link1": "L7",
@@ -4245,7 +3800,7 @@
             "type": "地点",
             "start": "",
             "end": "",
-            "text": "la ciudad de La Vegas",
+            "text": "Las Vegas",
             "sent_time": ""
           }
         ]
@@ -4271,7 +3826,7 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "Sonic Laser TV,",
+            "text": "Sonic Laser TV",
             "sent_time": ""
           }
         ]
@@ -4284,7 +3839,7 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "tecnología 8K ",
+            "text": "tecnología 8K",
             "sent_time": ""
           }
         ]
@@ -4297,7 +3852,7 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": " 33 millones de pixeles",
+            "text": "33 millones de pixeles",
             "sent_time": ""
           }
         ]
@@ -4336,7 +3891,7 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": " una resolución de 4K",
+            "text": "resolución 4K",
             "sent_time": ""
           }
         ]
@@ -4375,7 +3930,7 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "el Neo QLED 8K QN900D",
+            "text": "Neo QLED 8K QN900D",
             "sent_time": ""
           }
         ]
@@ -4388,7 +3943,7 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "un procesador de inteligencia artificial (IA) integrada (el NQ8 AI Gen 3)",
+            "text": "procesador de inteligencia artificial NQ8 AI Gen 3",
             "sent_time": ""
           }
         ]
@@ -4414,7 +3969,7 @@
             "type": "企业",
             "start": "",
             "end": "",
-            "text": " Intel",
+            "text": "Intel",
             "sent_time": ""
           }
         ]
@@ -4453,7 +4008,7 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "el Core i9-14900HX, con 24 núcleos",
+            "text": "Core i9-14900HX",
             "sent_time": ""
           }
         ]
@@ -4479,7 +4034,7 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "IA generativa ",
+            "text": "IA generativa",
             "sent_time": ""
           }
         ]
@@ -4609,7 +4164,7 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "su tecnología de pantallas para automóviles que propone construir un entorno dentro del habitáculo utilizando lásers",
+            "text": "tecnología de pantallas para automóviles",
             "sent_time": ""
           }
         ]
@@ -4622,7 +4177,7 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": " AR HUD holográfico",
+            "text": "AR HUD holográfico",
             "sent_time": ""
           }
         ]
@@ -4635,7 +4190,7 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "su tecnología de faros para autos con dos módulos ZKW microZ integrados",
+            "text": "tecnología de faros para autos con módulos ZKW microZ",
             "sent_time": ""
           }
         ]
@@ -4656,19 +4211,44 @@
         "type": "研发"
       },
       {
-        "link1": "L2",
-        "link2": "L1",
-        "type": "相关"
+        "link1": "L0",
+        "link2": "L2",
+        "type": "研发"
       },
       {
-        "link1": "L3",
-        "link2": "L5",
-        "type": "从属"
+        "link1": "L0",
+        "link2": "L12",
+        "type": "研发"
       },
       {
-        "link1": "L4",
-        "link2": "L6",
-        "type": "从属"
+        "link1": "L0",
+        "link2": "L13",
+        "type": "研发"
+      },
+      {
+        "link1": "L1",
+        "link2": "L2",
+        "type": "包含"
+      },
+      {
+        "link1": "L1",
+        "link2": "L12",
+        "type": "包含"
+      },
+      {
+        "link1": "L1",
+        "link2": "L13",
+        "type": "包含"
+      },
+      {
+        "link1": "L5",
+        "link2": "L3",
+        "type": "研发"
+      },
+      {
+        "link1": "L6",
+        "link2": "L4",
+        "type": "研发"
       },
       {
         "link1": "L2",
@@ -4704,16 +4284,6 @@
         "link1": "L2",
         "link2": "L11",
         "type": "采用"
-      },
-      {
-        "link1": "L12",
-        "link2": "L1",
-        "type": "相关"
-      },
-      {
-        "link1": "L13",
-        "link2": "L1",
-        "type": "相关"
       }
     ],
     "entityLink": {
@@ -4751,7 +4321,7 @@
             "type": "产品",
             "start": "",
             "end": "",
-            "text": "el Galaxy S24 Ultra",
+            "text": "Galaxy S24 Ultra",
             "sent_time": ""
           }
         ]
@@ -4816,7 +4386,7 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "una cámara de vapor ",
+            "text": "cámara de vapor",
             "sent_time": ""
           }
         ]
@@ -4829,20 +4399,20 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "una pantalla plana",
+            "text": "pantalla plana",
             "sent_time": ""
           }
         ]
       },
       "L9": {
         "len": 1,
-        "type": "技术",
+        "type": "产品",
         "link": [
           {
-            "type": "技术",
+            "type": "产品",
             "start": "",
             "end": "",
-            "text": "un Snapdragon 8 Gen 3",
+            "text": "Snapdragon 8 Gen 3",
             "sent_time": ""
           }
         ]
@@ -4855,7 +4425,7 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "un asombroso sensor de 200 megapíxeles",
+            "text": "sensor de 200 megapíxeles",
             "sent_time": ""
           }
         ]
@@ -4868,7 +4438,7 @@
             "type": "技术",
             "start": "",
             "end": "",
-            "text": "almacenamiento de 256 GB, 512 GB o incluso 1 TB",
+            "text": "almacenamiento de 256 GB, 512 GB o 1 TB",
             "sent_time": ""
           }
         ]
