@@ -2,6 +2,12 @@
 
 This repository contains a compact anonymous release for review. It includes sample data and the minimal code needed to show the proposed code-style entity-relation extraction format.
 
+# Training Framework
+
+The models in the paper were trained with the LLaMA-Factory framework. The training data follows the ShareGPT/LLaMA-Factory messages format.
+
+LLaMA-Factory link: https://github.com/hiyouga/LLaMA-Factory
+
 ## Files
 
 - `raw_sample.json`: 8 annotated raw samples. The sample covers the four main languages used in the paper: Chinese, English, Russian, and Spanish, with 2 samples for each language.
