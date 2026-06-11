@@ -44,7 +44,7 @@ result['entities'].append({"text": "...", "type": "..."})
 result['relations'].append({"head": "...", "tail": "...", "type": "..."})
 return result
 ```
-
+`natural_language_train_sample.json` follows the ShareGPT/LLaMA-Factory `messages` format. Unlike the code-style format, the assistant directly returns a natural-language JSON result containing extracted `entities` and `relations`. Each entity includes its text span and type, while each relation is represented by a `head`, `tail`, and relation `type`. This file serves as the natural-language output baseline.
 ## Usage
 
 Convert raw samples into code-style samples:
