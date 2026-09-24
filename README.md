@@ -1,6 +1,4 @@
-# Anonymous Repository for Paper Submission
-
-This repository contains a compact anonymous release for review. It includes sample data and the minimal code needed to show the proposed code-style entity-relation extraction format.
+It includes sample data and the minimal code needed to show the proposed code-style entity-relation extraction format.
 
 # Training Framework
 
